@@ -9,7 +9,7 @@
 | **Projet** | Traffic Core - Système de Gestion de Trafic Urbain Blockchain |
 | **Version** | 2.0.0 |
 | **Date** | Janvier 2026 |
-| **Encadrant** | Pr. Ikram BEN ABDEL OUAHAB| | Pr. Mohammed BOUHORMA|
+| **Encadrant** | Pr. Ikram BEN ABDEL OUAHAB & Pr. Mohammed BOUHORMA|
 | **Formation** | Master IASD - Spécialité Blockchain |
 | **Année Universitaire** | 2025/2026 |
 
@@ -436,8 +436,8 @@ Respond in JSON format...`;
 | Composant | Version | Notes |
 |-----------|---------|-------|
 | Ubuntu | 22.04 LTS | Recommandé |
-| RAM | 8 GB min | 16 GB pour LLM |
-| Disque | 50 GB libre | +5 GB pour LM Studio |
+| RAM | 12 GB min | 16 GB pour LLM |
+| Disque | 60 GB libre | +30 GB pour LM Studio |
 | Docker | 24.0+ | + Docker Compose |
 | Go | 1.21+ | Pour chaincodes |
 | Node.js | 18+ | Backend/Frontend |
@@ -472,18 +472,6 @@ source ~/.bashrc
 peer version
 ```
 
-### Étape 3: Créer le Swap (si RAM < 16GB)
-
-```bash
-# Créer 2GB de swap
-sudo fallocate -l 2G /swapfile
-sudo chmod 600 /swapfile
-sudo mkswap /swapfile
-sudo swapon /swapfile
-
-# Rendre permanent
-echo '/swapfile none swap sw 0 0' | sudo tee -a /etc/fstab
-```
 
 ### Étape 4: Démarrer le Réseau Fabric
 
@@ -545,7 +533,7 @@ cd simulator && npm start
 ### Accès au Dashboard
 
 1. Ouvrir http://localhost:5176
-2. Login: `admin` / `admin123`
+
 
 ### Pages Disponibles
 
@@ -690,16 +678,6 @@ cd simulator && npm start &
 
 ## 🐛 Dépannage
 
-### Erreur "No space left on device"
-
-```bash
-# Nettoyer Docker
-docker system prune -af --volumes
-docker builder prune -af
-
-# Vérifier espace
-df -h
-```
 
 ### Erreur "Connection refused" chaincode
 
@@ -711,26 +689,7 @@ docker ps | grep ccaas
 docker restart road-manager-ccaas sensor-data-ccaas traffic-registry-ccaas
 ```
 
-### Violations ne s'affichent pas
 
-```bash
-# Vérifier que le simulator tourne
-ps aux | grep simulator
-
-# Vérifier les logs backend
-cd backend && npm run dev  # regarder les logs
-```
-
-### SOC n'analyse pas avec Mistral
-
-```bash
-# Vérifier LM Studio
-curl http://localhost:1234/v1/models
-
-# Si erreur, le fallback rule-based est utilisé
-```
-
----
 
 ## 📚 Technologies Utilisées
 
