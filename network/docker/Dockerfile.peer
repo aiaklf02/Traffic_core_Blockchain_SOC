@@ -1,0 +1,86 @@
+FROM hyperledger/fabric-peer:2.5.4
+USER root
+RUN apt-get update && apt-get install -y iputils-ping netcat
+RUN apt-get update && apt-get install -y ca-certificates curl jq docker.io
+# place builder scripts into bin so they override any existing binaries
+RUN mkdir -p /opt/hyperledger/ccaas_builder/bin
+
+# Inject detect script
+RUN cat > /opt/hyperledger/ccaas_builder/bin/detect <<'SH'
+#!/bin/sh
+# Simple external builder detect script for Go chaincode
+set -e
+PDIR="$1"
+if [ -z "$PDIR" ]; then
+	PDIR=.
+fi
+if [ -f "$PDIR/metadata.json" ]; then
+	type=$(jq -r '.type // ""' "$PDIR/metadata.json" 2>/dev/null || true)
+	if [ "$type" = "golang" ] || [ "$type" = "go" ]; then
+		exit 0
+	fi
+fi
+exit 1
+SH
+
+# Inject build script
+RUN cat > /opt/hyperledger/ccaas_builder/bin/build <<'SH'
+#!/bin/sh
+# Simple external builder build script.
+# Usage: build <staged-source-dir>
+set -e
+STAGED_DIR="$1"
+if [ -z "$STAGED_DIR" ]; then
+	echo "no staged dir provided" >&2
+	exit 1
+fi
+if [ ! -d "$STAGED_DIR" ]; then
+	echo "staged dir not found: $STAGED_DIR" >&2
+	exit 1
+fi
+# parse metadata.json for name/version
+if [ ! -f "$STAGED_DIR/metadata.json" ]; then
+	echo "metadata.json not found in $STAGED_DIR" >&2
+	exit 1
+fi
+name=$(jq -r '.label // .name // empty' "$STAGED_DIR/metadata.json" 2>/dev/null || true)
+version=$(jq -r '.version // .label // empty' "$STAGED_DIR/metadata.json" 2>/dev/null || true)
+if [ -z "$name" ]; then
+	echo "could not determine chaincode name" >&2
+	exit 1
+fi
+if [ -z "$version" ]; then
+	version="1.0"
+fi
+DOCKER_NS=${DOCKER_NS:-traffic}
+IMAGE_TAG="$DOCKER_NS/$name:$version"
+echo "[cc-builder] Building image $IMAGE_TAG from $STAGED_DIR"
+cd "$STAGED_DIR"
+if [ ! -f Dockerfile ]; then
+	cat > Dockerfile <<'EOF'
+FROM golang:1.20-alpine AS build
+WORKDIR /chaincode
+COPY . .
+RUN apk add --no-cache git build-base && \
+		go build -o chaincode
+
+FROM alpine:3.18
+WORKDIR /chaincode
+COPY --from=build /chaincode/chaincode ./chaincode
+CMD ["./chaincode"]
+EOF
+fi
+docker build -t "$IMAGE_TAG" .
+echo "$IMAGE_TAG"
+exit 0
+SH
+
+# Inject cleanup script
+RUN cat > /opt/hyperledger/ccaas_builder/bin/cleanup <<'SH'
+#!/bin/sh
+# No-op cleanup for external builder
+exit 0
+SH
+
+RUN chmod -R +x /opt/hyperledger/ccaas_builder || true
+ENV PATH="/opt/hyperledger/ccaas_builder/bin:$PATH"

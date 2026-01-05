@@ -1,0 +1,14 @@
+#!/bin/sh
+# Simple external builder detect script for Go chaincode
+set -e
+PDIR="$1"
+if [ -z "$PDIR" ]; then
+  PDIR=.
+fi
+if [ -f "$PDIR/metadata.json" ]; then
+  type=$(jq -r '.type // ""' "$PDIR/metadata.json" 2>/dev/null || true)
+  if [ "$type" = "golang" ] || [ "$type" = "go" ]; then
+    exit 0
+  fi
+fi
+exit 1

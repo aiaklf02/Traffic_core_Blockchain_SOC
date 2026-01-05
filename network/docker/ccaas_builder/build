@@ -1,0 +1,51 @@
+#!/bin/sh
+# Simple external builder build script.
+# Usage: build <staged-source-dir>
+set -e
+STAGED_DIR="$1"
+if [ -z "$STAGED_DIR" ]; then
+  echo "no staged dir provided" >&2
+  exit 1
+fi
+if [ ! -d "$STAGED_DIR" ]; then
+  echo "staged dir not found: $STAGED_DIR" >&2
+  exit 1
+fi
+# parse metadata.json for name/version
+if [ ! -f "$STAGED_DIR/metadata.json" ]; then
+  echo "metadata.json not found in $STAGED_DIR" >&2
+  exit 1
+fi
+name=$(jq -r '.label // .name // empty' "$STAGED_DIR/metadata.json" 2>/dev/null || true)
+version=$(jq -r '.version // .label // empty' "$STAGED_DIR/metadata.json" 2>/dev/null || true)
+if [ -z "$name" ]; then
+  # try to read from code tarball
+  echo "could not determine chaincode name" >&2
+  exit 1
+fi
+if [ -z "$version" ]; then
+  version="1.0"
+fi
+DOCKER_NS=${DOCKER_NS:-traffic}
+IMAGE_TAG="$DOCKER_NS/$name:$version"
+echo "[cc-builder] Building image $IMAGE_TAG from $STAGED_DIR"
+cd "$STAGED_DIR"
+# If a Dockerfile exists, use it; otherwise create a minimal Dockerfile for go chaincode
+if [ ! -f Dockerfile ]; then
+  cat > Dockerfile <<'EOF'
+FROM golang:1.20-alpine AS build
+WORKDIR /chaincode
+COPY . .
+RUN apk add --no-cache git build-base && \
+    go build -o chaincode
+
+FROM alpine:3.18
+WORKDIR /chaincode
+COPY --from=build /chaincode/chaincode ./chaincode
+CMD ["./chaincode"]
+EOF
+fi
+# build using docker CLI
+docker build -t "$IMAGE_TAG" .
+echo "$IMAGE_TAG"
+exit 0

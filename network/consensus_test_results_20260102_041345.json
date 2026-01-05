@@ -1,0 +1,11 @@
+{
+  "testDate": "2026-01-02T04:13:45+01:00",
+  "channel": "traffic-channel",
+  "chaincode": "road-manager",
+  "transactionsPerTest": 10,
+  "networkConfig": {"organizations": 3, "peersPerOrg": 2, "totalPeers": 6, "orderers": 3},
+  "results": {
+    "pbft": {"name": "PBFT-like (6 Peers)", "organizations": 3, "endorsingPeers": 6, "throughput": .95, "avgLatency": 1003, "successful": 10, "totalTime": 10437, "faultTolerance": "33%", "peers": ["peer0.org1", "peer1.org1", "peer0.org2", "peer1.org2", "peer0.org3", "peer1.org3"]},
+    "poa": {"name": "PoA-like (2 Peers)", "organizations": 1, "endorsingPeers": 2, "throughput": .64, "avgLatency": 1480, "successful": 10, "totalTime": 15516, "faultTolerance": "50%", "peers": ["peer0.org1", "peer1.org1"]}
+  }
+}

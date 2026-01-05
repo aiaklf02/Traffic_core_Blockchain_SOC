@@ -1,0 +1,526 @@
+[2026-01-05T02:48:11.005Z] Speed reading: {"id":"c7c5827b-0c38-408b-b99b-8a8d6dc3ae4c","sensorId":"sensor-1","currentSpeed":116.3}
+[2026-01-05T02:48:11.074Z] Weather reading: {"id":"bbaa245d-32bc-426c-be77-be2a9cc3f2ff","sensorId":"sensor-2","temperature":-8.651629904081439,"humidity":27.145224146655366}
+[2026-01-05T02:48:11.132Z] Speed reading: {"id":"a36db58f-1cfb-4819-a95e-44e7016a5081","sensorId":"sensor-3","currentSpeed":21.2}
+[2026-01-05T02:48:11.195Z] Speed reading: {"id":"396fddee-41f7-42a2-bcfd-ba9a2f473224","sensorId":"sensor-4","currentSpeed":28.8}
+[2026-01-05T02:48:11.232Z] Air quality reading: {"id":"ffc5e847-daa2-4b29-b858-4c6e8eaedcf1","sensorId":"sensor-5","aqi":142}
+[2026-01-05T02:48:11.297Z] Traffic event: {"id":"2d4a145c-8c0f-402a-b741-d2a3095131b0","type":"accident","roadId":"road-7","severity":"critical","description":"In virtus summa universe.","timestamp":"2026-01-05T02:48:11.232Z"}
+[2026-01-05T02:48:21.008Z] Speed reading: {"id":"77583fff-b82b-4725-96b3-e58d05c13a80","sensorId":"sensor-1","currentSpeed":148.2}
+[2026-01-05T02:48:21.101Z] Weather reading: {"id":"69783ac1-17e3-43ba-9b85-3e6174647714","sensorId":"sensor-2","temperature":13.838995274469848,"humidity":20.25562626286468}
+[2026-01-05T02:48:21.188Z] Speed reading: {"id":"9b6b83f9-834d-45dd-afc5-4eeb80f76965","sensorId":"sensor-3","currentSpeed":47.3}
+[2026-01-05T02:48:21.256Z] Speed reading: {"id":"16906f7f-fc16-4bc3-88e2-b1e0ce8d7fc2","sensorId":"sensor-4","currentSpeed":31}
+[2026-01-05T02:48:21.315Z] Air quality reading: {"id":"f319785c-e2ea-4dff-83f4-e041454915ab","sensorId":"sensor-5","aqi":305}
+[2026-01-05T02:48:30.996Z] Speed reading: {"id":"5b47d077-10f6-41dc-a972-d8e7189a2764","sensorId":"sensor-1","currentSpeed":70}
+[2026-01-05T02:48:31.036Z] Weather reading: {"id":"00f0f155-8b90-480a-a6fd-bbf3eda7a2b0","sensorId":"sensor-2","temperature":1.5619465139303372,"humidity":68.52199426209727}
+[2026-01-05T02:48:31.082Z] Speed reading: {"id":"88c3a511-c99c-4e3d-9e3e-93f53b87e70f","sensorId":"sensor-3","currentSpeed":6.4}
+[2026-01-05T02:48:31.136Z] Speed reading: {"id":"02922647-d329-40f2-b237-aaa49df9975b","sensorId":"sensor-4","currentSpeed":144.6}
+[2026-01-05T02:48:31.181Z] Air quality reading: {"id":"8c6c045c-8841-4e31-bb69-59b433965923","sensorId":"sensor-5","aqi":374}
+[2026-01-05T02:48:31.233Z] Traffic event: {"id":"516d7bc0-a616-4c63-806f-285bd9db177f","type":"roadwork","roadId":"road-9","severity":"medium","description":"Defessus aliquid adfero denuncio tum animi terror.","timestamp":"2026-01-05T02:48:31.182Z"}
+[2026-01-05T02:48:41.012Z] Speed reading: {"id":"edbb27be-5dc7-4774-bb73-0f43b56eed12","sensorId":"sensor-1","currentSpeed":69.6}
+[2026-01-05T02:48:41.057Z] Weather reading: {"id":"1386f8f3-c8cf-4303-876c-337acb15ad37","sensorId":"sensor-2","temperature":14.71198114987575,"humidity":0.4462729555246958}
+[2026-01-05T02:48:41.112Z] Speed reading: {"id":"13275444-6597-4dbb-9ab4-719bdc6701d6","sensorId":"sensor-3","currentSpeed":27.3}
+[2026-01-05T02:48:41.171Z] Speed reading: {"id":"122351e9-f184-4b1a-9635-cff49fa3e3a4","sensorId":"sensor-4","currentSpeed":66}
+[2026-01-05T02:48:41.243Z] Air quality reading: {"id":"dddd4fbe-7cb0-472b-b10b-f208325e8971","sensorId":"sensor-5","aqi":55}
+[2026-01-05T02:48:50.998Z] Speed reading: {"id":"77e5908d-14bc-49fd-93c1-c5936580373a","sensorId":"sensor-1","currentSpeed":11}
+[2026-01-05T02:48:51.041Z] Weather reading: {"id":"6722893c-bd58-470b-bdfc-d0090af80e9b","sensorId":"sensor-2","temperature":9.527048513247415,"humidity":32.85405261589085}
+[2026-01-05T02:48:51.077Z] Speed reading: {"id":"986f099f-70f4-41a8-a7ee-2e67a91168df","sensorId":"sensor-3","currentSpeed":100.2}
+[2026-01-05T02:48:51.115Z] Speed reading: {"id":"80420b69-e227-4824-808f-93dbfd91ae35","sensorId":"sensor-4","currentSpeed":67.4}
+[2026-01-05T02:48:51.140Z] Air quality reading: {"id":"a1aa3711-5e63-4f80-adfd-805d2f3740ae","sensorId":"sensor-5","aqi":363}
+[2026-01-05T02:49:00.987Z] Speed reading: {"id":"4f761202-9208-4b97-8d8f-3e28d69e12ae","sensorId":"sensor-1","currentSpeed":78}
+[2026-01-05T02:49:01.027Z] Weather reading: {"id":"9b197f78-ceae-4e8b-9cad-7a7c08fbcea5","sensorId":"sensor-2","temperature":31.651708027153752,"humidity":72.5660758084914}
+[2026-01-05T02:49:01.076Z] Speed reading: {"id":"4be2913b-3016-4f96-9790-b3c4c63f5080","sensorId":"sensor-3","currentSpeed":82.7}
+[2026-01-05T02:49:01.118Z] Speed reading: {"id":"d9955850-d212-4ae3-8920-a6e5af31673c","sensorId":"sensor-4","currentSpeed":133.4}
+[2026-01-05T02:49:01.166Z] Air quality reading: {"id":"5c24d5e6-021b-415d-ae3c-93c17d33ee42","sensorId":"sensor-5","aqi":2}
+[2026-01-05T02:49:10.992Z] Speed reading: {"id":"78cefe6c-9d00-4d75-b6c9-bcd823497b2b","sensorId":"sensor-1","currentSpeed":112.7}
+[2026-01-05T02:49:11.031Z] Weather reading: {"id":"e501c1fd-ce45-41ad-8751-db951e0313a8","sensorId":"sensor-2","temperature":28.026342336663284,"humidity":45.2289048726122}
+[2026-01-05T02:49:11.062Z] Speed reading: {"id":"23fae8e8-ac32-42c9-964c-e9e284387315","sensorId":"sensor-3","currentSpeed":103}
+[2026-01-05T02:49:11.118Z] Speed reading: {"id":"808dbdd8-c7c6-4cff-8056-a29fe3a21201","sensorId":"sensor-4","currentSpeed":11.8}
+[2026-01-05T02:49:11.175Z] Air quality reading: {"id":"411a1e0a-cdac-46f7-9f98-33530a792ab9","sensorId":"sensor-5","aqi":380}
+[2026-01-05T02:49:20.997Z] Speed reading: {"id":"acca399c-4c88-4596-8ad1-5c759705f3e2","sensorId":"sensor-1","currentSpeed":3.5}
+[2026-01-05T02:49:21.060Z] Weather reading: {"id":"44177b46-e4a3-47bc-b704-806df75382cb","sensorId":"sensor-2","temperature":25.326821312282412,"humidity":44.92070778331422}
+[2026-01-05T02:49:21.100Z] Speed reading: {"id":"33a4b0ab-fd58-446c-9c23-969f415b417b","sensorId":"sensor-3","currentSpeed":77.1}
+[2026-01-05T02:49:21.177Z] Speed reading: {"id":"d749ff81-98ed-4382-bd5c-d20228dabe23","sensorId":"sensor-4","currentSpeed":149.5}
+[2026-01-05T02:49:21.286Z] Air quality reading: {"id":"70b0e937-41c9-4b24-9708-c63da32cc503","sensorId":"sensor-5","aqi":384}
+[2026-01-05T02:49:21.356Z] Traffic event: {"id":"8d23571a-79f7-4a16-af4d-e7adb7dded0e","type":"closure","roadId":"road-4","severity":"high","description":"Quos urbanus infit avarus.","timestamp":"2026-01-05T02:49:21.291Z"}
+[2026-01-05T02:49:31.041Z] Speed reading: {"id":"0cead525-b3ff-432d-af5c-95533ce6cce1","sensorId":"sensor-1","currentSpeed":9.8}
+[2026-01-05T02:49:31.097Z] Weather reading: {"id":"908fc11a-b74d-4a85-9492-d38f2036ce1e","sensorId":"sensor-2","temperature":8.180254559056102,"humidity":83.08675921517835}
+[2026-01-05T02:49:31.165Z] Speed reading: {"id":"bf8990b5-8f01-46d1-a781-8a17cf6fa4e6","sensorId":"sensor-3","currentSpeed":139.5}
+[2026-01-05T02:49:31.218Z] Speed reading: {"id":"0b9824d7-5bcc-4962-9181-b126236cf05d","sensorId":"sensor-4","currentSpeed":88.4}
+[2026-01-05T02:49:31.265Z] Air quality reading: {"id":"f2cf9437-4223-4090-a620-afde36f09985","sensorId":"sensor-5","aqi":23}
+[2026-01-05T02:49:41.010Z] Speed reading: {"id":"c880f24c-8a6d-44ff-8a2a-fb62df4cbc70","sensorId":"sensor-1","currentSpeed":106.9}
+[2026-01-05T02:49:41.082Z] Weather reading: {"id":"eb567b5f-cbb0-426d-8b97-38450ac51d89","sensorId":"sensor-2","temperature":33.01203658711824,"humidity":10.507826311033163}
+[2026-01-05T02:49:41.168Z] Speed reading: {"id":"c735d0fc-6f31-4db7-ad3b-9a12c782b295","sensorId":"sensor-3","currentSpeed":4.8}
+[2026-01-05T02:49:41.221Z] Speed reading: {"id":"d97cf5f8-5998-408f-b71d-f2f46247100a","sensorId":"sensor-4","currentSpeed":49.7}
+[2026-01-05T02:49:41.292Z] Air quality reading: {"id":"393db3a7-5348-4209-97f5-08349774c852","sensorId":"sensor-5","aqi":296}
+[2026-01-05T02:49:41.358Z] Traffic event: {"id":"c94f1941-15ac-45c6-bdeb-947cd6abba07","type":"accident","roadId":"road-10","severity":"low","description":"Eveniet culpa similique.","timestamp":"2026-01-05T02:49:41.292Z"}
+[2026-01-05T02:49:51.057Z] Speed reading: {"id":"c375b34f-f808-47ac-8cff-c7e7eaa5c210","sensorId":"sensor-1","currentSpeed":53.3}
+[2026-01-05T02:49:51.131Z] Weather reading: {"id":"17f9de99-62bb-448e-8102-028666026f3c","sensorId":"sensor-2","temperature":34.04374541338918,"humidity":71.9924101054047}
+[2026-01-05T02:49:51.208Z] Speed reading: {"id":"ca2313d4-d475-4ba1-b3fe-38ca20ba6f6d","sensorId":"sensor-3","currentSpeed":27.1}
+[2026-01-05T02:49:51.256Z] Speed reading: {"id":"571e2004-6ae8-4c38-99f2-f173f2b9df4d","sensorId":"sensor-4","currentSpeed":142.3}
+[2026-01-05T02:49:51.306Z] Air quality reading: {"id":"07052873-cfef-4263-9c70-f04cb1b4e835","sensorId":"sensor-5","aqi":389}
+[2026-01-05T02:49:51.338Z] Traffic event: {"id":"5aab4720-6b7d-40cc-995b-8a03fa6c119b","type":"accident","roadId":"road-8","severity":"critical","description":"Atavus curriculum tolero coruscus terreo sint adsuesco angustus.","timestamp":"2026-01-05T02:49:51.306Z"}
+[2026-01-05T02:50:01.062Z] Speed reading: {"id":"95f88aef-45ba-4e4a-987a-d83bca16c387","sensorId":"sensor-1","currentSpeed":74.4}
+[2026-01-05T02:50:01.102Z] Weather reading: {"id":"71d6a0ee-ddbc-4998-a0fe-1096587ff681","sensorId":"sensor-2","temperature":34.454053185363236,"humidity":15.92100593635103}
+[2026-01-05T02:50:01.196Z] Speed reading: {"id":"7ee599cc-b627-45a0-976d-da5a57178255","sensorId":"sensor-3","currentSpeed":81}
+[2026-01-05T02:50:01.250Z] Speed reading: {"id":"08510086-9b46-45d6-ae42-55cc4c26c4e6","sensorId":"sensor-4","currentSpeed":0.4}
+[2026-01-05T02:50:01.298Z] Air quality reading: {"id":"00e3e3f9-e66b-4751-ba5f-fd8718c235ac","sensorId":"sensor-5","aqi":338}
+[2026-01-05T02:50:11.079Z] Speed reading: {"id":"83d497a7-2999-4cb8-8705-3caecf145546","sensorId":"sensor-1","currentSpeed":126.5}
+[2026-01-05T02:50:11.163Z] Weather reading: {"id":"d2fb0d9b-1a68-4cab-8d87-b2b0de831d55","sensorId":"sensor-2","temperature":15.459864017154484,"humidity":26.866890888983374}
+[2026-01-05T02:50:11.220Z] Speed reading: {"id":"0f9d8403-34e4-44f3-9443-1bf00cc5a811","sensorId":"sensor-3","currentSpeed":58.2}
+[2026-01-05T02:50:11.278Z] Speed reading: {"id":"48be944f-8115-4745-8b17-d8ce0d449673","sensorId":"sensor-4","currentSpeed":80.3}
+[2026-01-05T02:50:11.342Z] Air quality reading: {"id":"a91d77d7-c37d-4db2-b49e-12e0f77c9a37","sensorId":"sensor-5","aqi":76}
+[2026-01-05T02:50:21.053Z] Speed reading: {"id":"c6a8913a-27c8-4500-a486-63ee411eca51","sensorId":"sensor-1","currentSpeed":144.5}
+[2026-01-05T02:50:21.111Z] Weather reading: {"id":"7fd45b15-5f51-4b45-bf1a-fb465d85ba07","sensorId":"sensor-2","temperature":26.733731177036084,"humidity":31.39713378532586}
+[2026-01-05T02:50:21.183Z] Speed reading: {"id":"f0f0400b-adac-45f6-8b8d-82c331b11a78","sensorId":"sensor-3","currentSpeed":33.5}
+[2026-01-05T02:50:21.256Z] Speed reading: {"id":"5ca14024-b1cf-4ead-9ca5-098b16fc3771","sensorId":"sensor-4","currentSpeed":90.2}
+[2026-01-05T02:50:21.340Z] Air quality reading: {"id":"9024d75f-8e92-4404-9383-176a4ebf7b9f","sensorId":"sensor-5","aqi":424}
+[2026-01-05T02:50:31.082Z] Speed reading: {"id":"04254e2b-63f5-45f2-ac51-a11d948aaadc","sensorId":"sensor-1","currentSpeed":137.7}
+[2026-01-05T02:50:31.137Z] Weather reading: {"id":"f4287a82-da51-4a9b-8398-69bd532a6b70","sensorId":"sensor-2","temperature":-4.466717158513525,"humidity":48.86983181593061}
+[2026-01-05T02:50:31.175Z] Speed reading: {"id":"69e59d65-8973-4206-91b4-6a0663e6bf9f","sensorId":"sensor-3","currentSpeed":51.9}
+[2026-01-05T02:50:31.236Z] Speed reading: {"id":"cb4c48bc-ff54-4ebe-a522-5d4c7da0e5ba","sensorId":"sensor-4","currentSpeed":32.6}
+[2026-01-05T02:50:31.273Z] Air quality reading: {"id":"819198b7-bf1b-4ef1-aa8c-c3cdb2b6bba1","sensorId":"sensor-5","aqi":318}
+[2026-01-05T02:50:41.072Z] Speed reading: {"id":"51b767e3-1efd-4b25-8486-849c04fc21d4","sensorId":"sensor-1","currentSpeed":60}
+[2026-01-05T02:50:41.100Z] Weather reading: {"id":"848c0fea-1f20-4e16-bf8d-cc7be49dfb77","sensorId":"sensor-2","temperature":13.9441947683132,"humidity":59.96140487964108}
+[2026-01-05T02:50:41.125Z] Speed reading: {"id":"543d51cd-d2f9-4817-a597-33c5ba1d11b2","sensorId":"sensor-3","currentSpeed":142.2}
+[2026-01-05T02:50:41.164Z] Speed reading: {"id":"0035c504-2844-4f10-a85f-43cf1cfb4d18","sensorId":"sensor-4","currentSpeed":65.8}
+[2026-01-05T02:50:41.211Z] Air quality reading: {"id":"a01850d8-ea0c-43be-806d-785d91d00f90","sensorId":"sensor-5","aqi":457}
+[2026-01-05T02:50:41.257Z] Traffic event: {"id":"f34180fc-d447-4ed3-9b38-2e02ec8c36c4","type":"congestion","roadId":"road-1","severity":"high","description":"Demitto vix territo ascisco corona.","timestamp":"2026-01-05T02:50:41.212Z"}
+[2026-01-05T02:50:51.112Z] Speed reading: {"id":"01a796e2-f7c7-42f2-9d92-42e1f9f16d62","sensorId":"sensor-1","currentSpeed":39.5}
+[2026-01-05T02:50:51.165Z] Weather reading: {"id":"dc4eb828-c63e-4153-86f0-4cf73a24bc46","sensorId":"sensor-2","temperature":36.76056454270469,"humidity":2.013007682555268}
+[2026-01-05T02:50:51.235Z] Speed reading: {"id":"49ca44d8-f51c-4b57-aa23-af8983f165db","sensorId":"sensor-3","currentSpeed":24.6}
+[2026-01-05T02:50:51.290Z] Speed reading: {"id":"bce420be-f849-43c9-8069-148bd39bc8d5","sensorId":"sensor-4","currentSpeed":67.1}
+[2026-01-05T02:50:51.397Z] Air quality reading: {"id":"8fe1c835-c0d1-4566-9c68-c9f3e4fa8d20","sensorId":"sensor-5","aqi":247}
+[2026-01-05T02:50:51.489Z] Traffic event: {"id":"ede76588-50c1-40b4-8e86-b6e5079e2aff","type":"closure","roadId":"road-2","severity":"medium","description":"Claro stillicidium tondeo volaticus utroque stabilis eum tandem doloribus capio.","timestamp":"2026-01-05T02:50:51.397Z"}
+[2026-01-05T02:51:01.078Z] Speed reading: {"id":"602dad20-dc93-4bc1-ac02-2466e4ae0761","sensorId":"sensor-1","currentSpeed":24.7}
+[2026-01-05T02:51:01.147Z] Weather reading: {"id":"25bc4484-8daa-494d-b679-f7b5c9affe02","sensorId":"sensor-2","temperature":8.38095201433763,"humidity":37.77961532356833}
+[2026-01-05T02:51:01.206Z] Speed reading: {"id":"39473158-02ce-4002-8eec-19453a6920bd","sensorId":"sensor-3","currentSpeed":29.1}
+[2026-01-05T02:51:01.236Z] Speed reading: {"id":"74c3d757-5d5d-4820-b51c-c13cf2875ace","sensorId":"sensor-4","currentSpeed":92.3}
+[2026-01-05T02:51:01.293Z] Air quality reading: {"id":"53bdd285-5ed6-4cf1-a8ea-907407a0477f","sensorId":"sensor-5","aqi":220}
+[2026-01-05T02:51:11.115Z] Speed reading: {"id":"f1af2f06-39c2-4893-a082-09f94d7c76d4","sensorId":"sensor-1","currentSpeed":69.8}
+[2026-01-05T02:51:11.174Z] Weather reading: {"id":"c55600fa-7929-49b4-8b33-542f9917cb6a","sensorId":"sensor-2","temperature":11.70629438676998,"humidity":62.68319134756809}
+[2026-01-05T02:51:11.202Z] Speed reading: {"id":"11598fc7-6711-447d-a4b9-1aff5c65de4d","sensorId":"sensor-3","currentSpeed":62.5}
+[2026-01-05T02:51:11.245Z] Speed reading: {"id":"13cbc6a8-59c6-4568-af46-7bc34649960f","sensorId":"sensor-4","currentSpeed":80.1}
+[2026-01-05T02:51:11.290Z] Air quality reading: {"id":"6033386b-7821-4a93-8b4c-f793b160235f","sensorId":"sensor-5","aqi":27}
+[2026-01-05T02:51:21.112Z] Speed reading: {"id":"43ec8a84-ee47-4161-a9b7-09c14efabd67","sensorId":"sensor-1","currentSpeed":44.2}
+[2026-01-05T02:51:21.170Z] Weather reading: {"id":"ca0d56fd-2289-44ca-a2e1-9da343d18789","sensorId":"sensor-2","temperature":30.834057362463184,"humidity":29.363790305750392}
+[2026-01-05T02:51:21.220Z] Speed reading: {"id":"cff3bb30-7d48-4e73-b30e-4ebdb80afd7e","sensorId":"sensor-3","currentSpeed":10.1}
+[2026-01-05T02:51:21.277Z] Speed reading: {"id":"71df2a6a-f748-479f-b385-ca88b1ed1a4e","sensorId":"sensor-4","currentSpeed":133.9}
+[2026-01-05T02:51:21.350Z] Air quality reading: {"id":"d5f09a22-5c91-42b1-bcdd-b24ef10f2601","sensorId":"sensor-5","aqi":46}
+[2026-01-05T02:51:31.084Z] Speed reading: {"id":"b600a0bd-5f17-48ca-aa1e-0be2f7aad5b8","sensorId":"sensor-1","currentSpeed":115.3}
+[2026-01-05T02:51:31.155Z] Weather reading: {"id":"245b567e-d434-4c7c-8f88-98adc0848800","sensorId":"sensor-2","temperature":-8.216030041801439,"humidity":44.38842824840765}
+[2026-01-05T02:51:31.224Z] Speed reading: {"id":"f2bb7ed9-2b2c-4190-8700-d427cf23e3e0","sensorId":"sensor-3","currentSpeed":105.5}
+[2026-01-05T02:51:31.297Z] Speed reading: {"id":"492b2326-06cf-4fe0-b939-518388f06d1e","sensorId":"sensor-4","currentSpeed":67.9}
+[2026-01-05T02:51:31.338Z] Air quality reading: {"id":"260df9f8-61ec-412a-9f89-eb9f7e44d820","sensorId":"sensor-5","aqi":375}
+[2026-01-05T02:51:41.149Z] Speed reading: {"id":"a1740a75-d318-486f-a69e-73d23d841e48","sensorId":"sensor-1","currentSpeed":54.1}
+[2026-01-05T02:51:41.205Z] Weather reading: {"id":"c8f30248-d249-4111-b372-ca8ab51e3488","sensorId":"sensor-2","temperature":37.200679714354855,"humidity":26.744505265171938}
+[2026-01-05T02:51:41.237Z] Speed reading: {"id":"e160e49f-0e37-4911-a5b8-64eefc48c891","sensorId":"sensor-3","currentSpeed":15.3}
+[2026-01-05T02:51:41.323Z] Speed reading: {"id":"e4e670a0-7921-4c24-a7c4-c4ea1e53729a","sensorId":"sensor-4","currentSpeed":148.6}
+[2026-01-05T02:51:41.383Z] Air quality reading: {"id":"edcc06c7-d4d8-4a9e-aea7-23f697f15714","sensorId":"sensor-5","aqi":270}
+[2026-01-05T02:51:51.105Z] Speed reading: {"id":"947de6b0-6ad0-4796-bca2-3d096a80b669","sensorId":"sensor-1","currentSpeed":83.4}
+[2026-01-05T02:51:51.185Z] Weather reading: {"id":"9341250e-0f2b-44f1-900c-77ad55a95cc6","sensorId":"sensor-2","temperature":-2.2585174242669224,"humidity":47.94217422492778}
+[2026-01-05T02:51:51.242Z] Speed reading: {"id":"4d375ba5-e187-4599-902b-0b78bab48f91","sensorId":"sensor-3","currentSpeed":148.1}
+[2026-01-05T02:51:51.303Z] Speed reading: {"id":"3554f4f9-8206-4ca8-bbea-2f48b75855c0","sensorId":"sensor-4","currentSpeed":92.7}
+[2026-01-05T02:51:51.355Z] Air quality reading: {"id":"e4447373-2332-4bd2-a689-c1c3f20f1517","sensorId":"sensor-5","aqi":23}
+[2026-01-05T02:52:01.102Z] Speed reading: {"id":"66356dae-5d15-4178-9531-c33f6df2be4a","sensorId":"sensor-1","currentSpeed":8.4}
+[2026-01-05T02:52:01.138Z] Weather reading: {"id":"ab511010-7b5f-4e23-9894-7385b6525064","sensorId":"sensor-2","temperature":12.954195043705955,"humidity":77.62812958192907}
+[2026-01-05T02:52:01.166Z] Speed reading: {"id":"f88e3309-8810-4659-b15a-3081d29c2f82","sensorId":"sensor-3","currentSpeed":145.8}
+[2026-01-05T02:52:01.235Z] Speed reading: {"id":"72708232-771d-461a-89ec-7046e9cfb316","sensorId":"sensor-4","currentSpeed":103.7}
+[2026-01-05T02:52:01.271Z] Air quality reading: {"id":"13a5deba-becd-4ba3-b25b-2e7a5e30c089","sensorId":"sensor-5","aqi":226}
+[2026-01-05T02:52:11.128Z] Speed reading: {"id":"c1c164d8-26af-4efd-91d8-51ed1d5d4df9","sensorId":"sensor-1","currentSpeed":5.6}
+[2026-01-05T02:52:11.207Z] Weather reading: {"id":"639a9246-845a-4f86-8486-f6f2e05f3c77","sensorId":"sensor-2","temperature":26.66807907588698,"humidity":60.07064108411727}
+[2026-01-05T02:52:11.232Z] Speed reading: {"id":"846f0f69-2fcf-4387-bcbf-e6b11c8f5239","sensorId":"sensor-3","currentSpeed":80}
+[2026-01-05T02:52:11.275Z] Speed reading: {"id":"fb6c6734-e2f1-4009-8477-9cd4fe03236a","sensorId":"sensor-4","currentSpeed":147.1}
+[2026-01-05T02:52:11.334Z] Air quality reading: {"id":"34ea1adf-24c9-472a-b6ca-08436f7355bf","sensorId":"sensor-5","aqi":62}
+[2026-01-05T02:52:21.134Z] Speed reading: {"id":"b53a4322-8c5c-4710-a451-c6fb141dd7b0","sensorId":"sensor-1","currentSpeed":137.8}
+[2026-01-05T02:52:21.197Z] Weather reading: {"id":"d8415eb2-1da0-4b7c-a5df-03383258209e","sensorId":"sensor-2","temperature":23.855172429127457,"humidity":31.290809947844057}
+[2026-01-05T02:52:21.240Z] Speed reading: {"id":"cc810c0a-1fd0-4f1f-8ba4-190057b02167","sensorId":"sensor-3","currentSpeed":20.5}
+[2026-01-05T02:52:21.300Z] Speed reading: {"id":"15479218-ec33-4459-a1d5-4de460b9f92b","sensorId":"sensor-4","currentSpeed":12.4}
+[2026-01-05T02:52:21.355Z] Air quality reading: {"id":"c55b4882-1ba8-47fb-9a45-98027078eb98","sensorId":"sensor-5","aqi":23}
+[2026-01-05T02:52:31.171Z] Speed reading: {"id":"e5cf6d94-50d1-4906-9e31-1271ef88a114","sensorId":"sensor-1","currentSpeed":14.4}
+[2026-01-05T02:52:31.225Z] Weather reading: {"id":"8fcc870e-1b44-489b-8325-69e830b394ee","sensorId":"sensor-2","temperature":-4.639147418645159,"humidity":92.5756481965264}
+[2026-01-05T02:52:31.270Z] Speed reading: {"id":"8639df39-0935-44d9-a173-b1622f5ed1eb","sensorId":"sensor-3","currentSpeed":85.8}
+[2026-01-05T02:52:31.311Z] Speed reading: {"id":"8b25bd2c-1a5f-407d-a480-934eff588f47","sensorId":"sensor-4","currentSpeed":43.5}
+[2026-01-05T02:52:31.378Z] Air quality reading: {"id":"8601265b-e4dd-4e6f-9064-b8d1e8a5ec25","sensorId":"sensor-5","aqi":17}
+[2026-01-05T02:52:41.197Z] Speed reading: {"id":"b0945e3e-9b93-4dc5-8062-3ad272999bb6","sensorId":"sensor-1","currentSpeed":87.6}
+[2026-01-05T02:52:41.271Z] Weather reading: {"id":"905da627-8c78-4160-b7e2-1241668eaa00","sensorId":"sensor-2","temperature":-0.013056826451819603,"humidity":23.52123609413297}
+[2026-01-05T02:52:41.354Z] Speed reading: {"id":"cca70f3b-65de-45dc-9a0e-ed39344de27c","sensorId":"sensor-3","currentSpeed":32.5}
+[2026-01-05T02:52:41.439Z] Speed reading: {"id":"9c06a9f5-5291-4dd8-8961-dcbe95200b78","sensorId":"sensor-4","currentSpeed":12.1}
+[2026-01-05T02:52:41.546Z] Air quality reading: {"id":"0462484d-435f-4cb5-b1ed-82c1bcaee366","sensorId":"sensor-5","aqi":369}
+[2026-01-05T02:52:51.156Z] Speed reading: {"id":"bc57d0c3-a3f3-4e72-bc9b-18f27662ed21","sensorId":"sensor-1","currentSpeed":98.4}
+[2026-01-05T02:52:51.242Z] Weather reading: {"id":"d72fbeea-d5be-4b55-8ef5-208454da9b2b","sensorId":"sensor-2","temperature":39.00002590410972,"humidity":43.621517391061126}
+[2026-01-05T02:52:51.318Z] Speed reading: {"id":"a6a2a638-c2b6-4935-af89-3a4438f0ec93","sensorId":"sensor-3","currentSpeed":33.3}
+[2026-01-05T02:52:51.395Z] Speed reading: {"id":"e17f3477-e713-41eb-9424-dc43fdca3922","sensorId":"sensor-4","currentSpeed":37.4}
+[2026-01-05T02:52:51.519Z] Air quality reading: {"id":"cf621296-48cf-4a76-b7ad-a7c1d0587339","sensorId":"sensor-5","aqi":411}
+[2026-01-05T02:52:51.616Z] Traffic event: {"id":"f28bf33b-be99-4258-933d-643fece1d322","type":"accident","roadId":"road-4","severity":"high","description":"Comptus terra defluo commodi balbus cunabula abscido.","timestamp":"2026-01-05T02:52:51.519Z"}
+[2026-01-05T02:53:01.179Z] Speed reading: {"id":"3dd4d4bc-2dd3-4f14-ae85-c749babebc63","sensorId":"sensor-1","currentSpeed":60.2}
+[2026-01-05T02:53:01.276Z] Weather reading: {"id":"ceb621a5-927e-4f0f-aba4-fce4a2c9f102","sensorId":"sensor-2","temperature":24.09117405937019,"humidity":48.96021668808203}
+[2026-01-05T02:53:01.358Z] Speed reading: {"id":"c36ff857-42d5-4005-830f-6f14e6d9992d","sensorId":"sensor-3","currentSpeed":92.4}
+[2026-01-05T02:53:01.429Z] Speed reading: {"id":"3ed01839-6e18-41aa-9d5d-6f1c2b4eeb31","sensorId":"sensor-4","currentSpeed":108.8}
+[2026-01-05T02:53:01.495Z] Air quality reading: {"id":"b29a6221-3275-46b8-aac5-2d5feb7c2029","sensorId":"sensor-5","aqi":210}
+[2026-01-05T02:53:01.532Z] Traffic event: {"id":"f1dbb01f-eae1-41e2-9cd7-d1d4adf570f5","type":"roadwork","roadId":"road-1","severity":"high","description":"Deorsum voro cribro demoror dens.","timestamp":"2026-01-05T02:53:01.495Z"}
+[2026-01-05T02:53:11.224Z] Speed reading: {"id":"5120736e-1a88-4c3d-ac48-a72857d460f7","sensorId":"sensor-1","currentSpeed":7.8}
+[2026-01-05T02:53:11.282Z] Weather reading: {"id":"85bee59e-4d98-430c-b340-c3ce712d6b62","sensorId":"sensor-2","temperature":3.477091922639362,"humidity":82.6015978656267}
+[2026-01-05T02:53:11.372Z] Speed reading: {"id":"79e02ac8-b072-4e0a-9098-34efa55018b8","sensorId":"sensor-3","currentSpeed":47.6}
+[2026-01-05T02:53:11.435Z] Speed reading: {"id":"46fa0dfb-4ac9-4a52-88f3-9a71bf699958","sensorId":"sensor-4","currentSpeed":58.4}
+[2026-01-05T02:53:11.481Z] Air quality reading: {"id":"777ca1fe-5f99-4a1f-aa08-28fe2cdebf4e","sensorId":"sensor-5","aqi":352}
+[2026-01-05T02:53:21.246Z] Speed reading: {"id":"3f460c81-473e-4753-b6e4-2d54e64765eb","sensorId":"sensor-1","currentSpeed":19.3}
+[2026-01-05T02:53:21.348Z] Weather reading: {"id":"dee1577c-8614-47c6-b73e-e38a3f731e26","sensorId":"sensor-2","temperature":11.867421899863377,"humidity":94.21209775490217}
+[2026-01-05T02:53:21.437Z] Speed reading: {"id":"f855d031-9c66-42ab-aac7-fd097c142b52","sensorId":"sensor-3","currentSpeed":9.3}
+[2026-01-05T02:53:21.463Z] Speed reading: {"id":"0e9394f4-7fef-4c81-816a-5e49c1f0bf48","sensorId":"sensor-4","currentSpeed":142.4}
+[2026-01-05T02:53:21.653Z] Air quality reading: {"id":"b1a23522-4740-4de2-bc05-5b2e9ac0e9f7","sensorId":"sensor-5","aqi":487}
+[2026-01-05T02:53:31.222Z] Speed reading: {"id":"91dceba7-9886-49b4-8e60-b6f570dc487e","sensorId":"sensor-1","currentSpeed":35.1}
+[2026-01-05T02:53:31.281Z] Weather reading: {"id":"320d2d29-64d5-4c4e-b03f-5e851aa36a0a","sensorId":"sensor-2","temperature":16.56144131432225,"humidity":5.276354823657991}
+[2026-01-05T02:53:31.365Z] Speed reading: {"id":"2a57789c-9de7-4a0e-b9ba-b614120fef93","sensorId":"sensor-3","currentSpeed":60.3}
+[2026-01-05T02:53:31.437Z] Speed reading: {"id":"71efc05b-c297-4fca-9043-9df2376f8254","sensorId":"sensor-4","currentSpeed":123}
+[2026-01-05T02:53:31.488Z] Air quality reading: {"id":"b1fb551d-f9bd-430d-9ae6-5fb34bc9a7cb","sensorId":"sensor-5","aqi":361}
+[2026-01-05T02:53:31.524Z] Traffic event: {"id":"761b9d33-b8b8-4a91-a28d-e0f788d46d8f","type":"accident","roadId":"road-10","severity":"low","description":"Ad asper tepidus argumentum blanditiis sodalitas caelestis.","timestamp":"2026-01-05T02:53:31.488Z"}
+[2026-01-05T02:53:41.255Z] Speed reading: {"id":"6be6a9c8-e9bf-46bf-a59c-a16751fe76eb","sensorId":"sensor-1","currentSpeed":140.8}
+[2026-01-05T02:53:41.312Z] Weather reading: {"id":"6930e014-56e0-4379-ad2d-78d927e8f2cf","sensorId":"sensor-2","temperature":10.41026082657459,"humidity":90.76401893056428}
+[2026-01-05T02:53:41.344Z] Speed reading: {"id":"1879083c-b2b5-4984-b550-38d5fef2f529","sensorId":"sensor-3","currentSpeed":9.4}
+[2026-01-05T02:53:41.418Z] Speed reading: {"id":"6e3c0b43-0c60-4095-9ef8-6f4758cc8082","sensorId":"sensor-4","currentSpeed":73}
+[2026-01-05T02:53:41.438Z] Air quality reading: {"id":"f2938762-b5a4-457d-9a48-61c3f628f0ab","sensorId":"sensor-5","aqi":117}
+[2026-01-05T02:53:51.255Z] Speed reading: {"id":"b9436f13-792f-4501-a644-ca42d0ec1c0e","sensorId":"sensor-1","currentSpeed":83.2}
+[2026-01-05T02:53:51.296Z] Weather reading: {"id":"d5cbbd19-f10d-4797-9665-df7c16f974bb","sensorId":"sensor-2","temperature":-2.961060226571057,"humidity":79.6642172901117}
+[2026-01-05T02:53:51.382Z] Speed reading: {"id":"ebf58cf1-1682-45ad-b842-8177d117f972","sensorId":"sensor-3","currentSpeed":77.7}
+[2026-01-05T02:53:51.509Z] Speed reading: {"id":"55bf1c76-d7a2-489e-9595-d5a188d79ee2","sensorId":"sensor-4","currentSpeed":5}
+[2026-01-05T02:53:51.565Z] Air quality reading: {"id":"d645774c-85c9-449b-bd96-036631839c88","sensorId":"sensor-5","aqi":122}
+[2026-01-05T02:54:01.320Z] Speed reading: {"id":"04c8f0c7-c5d9-4fa1-97ef-8d9ca8377683","sensorId":"sensor-1","currentSpeed":145}
+[2026-01-05T02:54:01.411Z] Weather reading: {"id":"b77def7c-3636-411f-ba69-e531f3fd9e3c","sensorId":"sensor-2","temperature":7.0021866339941,"humidity":45.62353733118998}
+[2026-01-05T02:54:01.511Z] Speed reading: {"id":"ab48fcf8-3705-4563-b0bc-c45e2ef9e3b0","sensorId":"sensor-3","currentSpeed":60.4}
+[2026-01-05T02:54:01.608Z] Speed reading: {"id":"aaf62a78-6989-461c-ae38-0048344f79e8","sensorId":"sensor-4","currentSpeed":62.3}
+[2026-01-05T02:54:01.715Z] Air quality reading: {"id":"183a09da-ae7d-4f79-8ab0-2816354f82a8","sensorId":"sensor-5","aqi":401}
+[2026-01-05T02:54:11.267Z] Speed reading: {"id":"c79cb001-3608-476b-ae09-97f975f1579e","sensorId":"sensor-1","currentSpeed":35.7}
+[2026-01-05T02:54:11.353Z] Weather reading: {"id":"dd5ddb30-a700-4767-accd-110fd972f2bf","sensorId":"sensor-2","temperature":29.35489237519942,"humidity":30.96927589240669}
+[2026-01-05T02:54:11.445Z] Speed reading: {"id":"554b7075-7cc3-4189-af16-e16db9b3793f","sensorId":"sensor-3","currentSpeed":20.8}
+[2026-01-05T02:54:11.537Z] Speed reading: {"id":"7fc91041-f671-4c92-bcaa-fd6420dd0186","sensorId":"sensor-4","currentSpeed":94.3}
+[2026-01-05T02:54:11.626Z] Air quality reading: {"id":"57bb3170-1c08-43a6-94a7-5f133a1f74a5","sensorId":"sensor-5","aqi":307}
+[2026-01-05T02:54:21.304Z] Speed reading: {"id":"6b1f0c2a-d31d-4c24-b703-48049e0faa49","sensorId":"sensor-1","currentSpeed":54.3}
+[2026-01-05T02:54:21.420Z] Weather reading: {"id":"96b939f4-3065-4ca1-baeb-579ce493a49f","sensorId":"sensor-2","temperature":21.758930999857466,"humidity":97.94902574917185}
+[2026-01-05T02:54:21.512Z] Speed reading: {"id":"849d175f-c714-4c92-a9d9-8d6190f9ef08","sensorId":"sensor-3","currentSpeed":42.2}
+[2026-01-05T02:54:21.638Z] Speed reading: {"id":"3fe1e54f-5170-4e69-9ffc-aa9cb7f01119","sensorId":"sensor-4","currentSpeed":84.7}
+[2026-01-05T02:54:21.791Z] Air quality reading: {"id":"9dcf3089-2d2e-4be5-8363-16a7bb997da3","sensorId":"sensor-5","aqi":484}
+[2026-01-05T02:54:31.324Z] Speed reading: {"id":"55516bd3-c174-4d51-a138-d6b822357ab9","sensorId":"sensor-1","currentSpeed":106.4}
+[2026-01-05T02:54:31.409Z] Weather reading: {"id":"2c1dac3c-9caa-44f0-a016-5a782e61024f","sensorId":"sensor-2","temperature":29.86824527884889,"humidity":52.25606380172129}
+[2026-01-05T02:54:31.537Z] Speed reading: {"id":"cfea060d-8e49-477b-99bc-f12c7e13885b","sensorId":"sensor-3","currentSpeed":99.6}
+[2026-01-05T02:54:31.625Z] Speed reading: {"id":"1e52730f-caf1-4502-a0ec-0290675efdc1","sensorId":"sensor-4","currentSpeed":67.9}
+[2026-01-05T02:54:31.740Z] Air quality reading: {"id":"651aa89b-4355-44a6-bef6-f87a7598d9a6","sensorId":"sensor-5","aqi":65}
+[2026-01-05T02:54:37.452Z] Simulation started with scenario: Normal
+[2026-01-05T02:54:41.333Z] Speed reading: {"id":"bde80057-c7f9-4c60-887e-8d8aa94ab131","sensorId":"sensor-1","currentSpeed":64.4}
+[2026-01-05T02:54:41.429Z] Weather reading: {"id":"699300ab-4e16-459f-b335-1c31fffe896f","sensorId":"sensor-2","temperature":6.671717980087447,"humidity":92.1775176925815}
+[2026-01-05T02:54:41.533Z] Speed reading: {"id":"2f1c90cc-1000-4108-a834-33d6d8dadf65","sensorId":"sensor-3","currentSpeed":114.7}
+[2026-01-05T02:54:41.646Z] Speed reading: {"id":"77b50a24-f634-4aeb-830e-811f2a5306e1","sensorId":"sensor-4","currentSpeed":24.3}
+[2026-01-05T02:54:41.722Z] Air quality reading: {"id":"5f554712-2cda-4028-8972-885d0aba106b","sensorId":"sensor-5","aqi":251}
+[2026-01-05T02:54:41.789Z] Traffic event: {"id":"6bc11859-8943-451e-bc81-8ff7150b865e","type":"congestion","roadId":"road-1","severity":"low","description":"Acsi degusto contabesco dolore doloribus adflicto dicta porro quis.","timestamp":"2026-01-05T02:54:41.722Z"}
+[2026-01-05T02:54:47.578Z] Speed reading: {"id":"3dc8ae87-09de-42f6-8fb2-0d4de6bb1fcd","sensorId":"sensor-1","currentSpeed":27}
+[2026-01-05T02:54:47.712Z] Weather reading: {"id":"aa3a8ff7-bf23-4541-8edc-f06c989d0739","sensorId":"sensor-2","temperature":6.754016040662183,"humidity":88.4284859982536}
+[2026-01-05T02:54:47.906Z] Traffic reading: {"id":"ad8cc76f-62ad-4266-9b5e-7c6b792403fa","sensorId":"sensor-3","vehicleCount":45,"averageSpeed":59}
+[2026-01-05T02:54:48.008Z] Traffic reading: {"id":"76852a61-c04e-4c8b-b0e8-1d8c2cd0698b","sensorId":"sensor-4","vehicleCount":96,"averageSpeed":30.2}
+[2026-01-05T02:54:48.084Z] Air quality reading: {"id":"ef130d3e-8124-45e9-b8be-3fd090dbb736","sensorId":"sensor-5","aqi":243}
+[2026-01-05T02:54:51.349Z] Speed reading: {"id":"9abf34e2-f1b6-4889-a4a3-b3810bca85d2","sensorId":"sensor-1","currentSpeed":17.3}
+[2026-01-05T02:54:51.437Z] Weather reading: {"id":"5092b9a8-14c3-4a7c-b0a7-c0402022668b","sensorId":"sensor-2","temperature":12.734934123821155,"humidity":35.389883712485684}
+[2026-01-05T02:54:51.513Z] Speed reading: {"id":"50b7be30-6057-49bb-b1aa-6f967c38b059","sensorId":"sensor-3","currentSpeed":80.1}
+[2026-01-05T02:54:51.604Z] Speed reading: {"id":"cd246191-4334-4a8a-8998-e94ce6d4c138","sensorId":"sensor-4","currentSpeed":112.4}
+[2026-01-05T02:54:51.692Z] Air quality reading: {"id":"cc9ce15f-67e2-43fe-ba68-b7bec297b6bb","sensorId":"sensor-5","aqi":467}
+[2026-01-05T02:54:57.631Z] Speed reading: {"id":"03411378-bd48-4aa2-8bab-25458a6d0dbf","sensorId":"sensor-1","currentSpeed":134.7}
+[2026-01-05T02:54:57.756Z] Weather reading: {"id":"623c8ecc-1550-460e-b119-31ba7744d63e","sensorId":"sensor-2","temperature":24.26187748789934,"humidity":51.38918023531901}
+[2026-01-05T02:54:57.888Z] Traffic reading: {"id":"a269107d-747b-4b3f-bf1e-dd2ad1f4612b","sensorId":"sensor-3","vehicleCount":9,"averageSpeed":15.1}
+[2026-01-05T02:54:58.025Z] Traffic reading: {"id":"7faea0ce-e851-4590-8990-1c01ebb8a0ad","sensorId":"sensor-4","vehicleCount":33,"averageSpeed":119.3}
+[2026-01-05T02:54:58.154Z] Air quality reading: {"id":"00025b20-4a91-4a16-ad48-91311a422d82","sensorId":"sensor-5","aqi":460}
+[2026-01-05T02:55:01.304Z] Speed reading: {"id":"3fd9e9c2-f097-4500-8f76-ef6d510a5d03","sensorId":"sensor-1","currentSpeed":129.5}
+[2026-01-05T02:55:01.395Z] Weather reading: {"id":"4caba2ba-6b92-4359-89e6-a53a067e4e95","sensorId":"sensor-2","temperature":28.93961266560774,"humidity":92.42319196288823}
+[2026-01-05T02:55:01.499Z] Speed reading: {"id":"4d5ae656-c1db-4822-9cea-415cffda0a62","sensorId":"sensor-3","currentSpeed":83.2}
+[2026-01-05T02:55:01.593Z] Speed reading: {"id":"1c8ca3d4-243e-4da5-8e28-7714b7f42bfd","sensorId":"sensor-4","currentSpeed":12}
+[2026-01-05T02:55:01.708Z] Air quality reading: {"id":"3b91b76a-6bb1-4b4a-b80f-22cc790c2947","sensorId":"sensor-5","aqi":499}
+[2026-01-05T02:55:01.786Z] Traffic event: {"id":"ffeeb749-dc58-4c0c-83d2-bae6097f0062","type":"roadwork","roadId":"road-5","severity":"high","description":"Derideo audeo depereo studio comitatus sunt.","timestamp":"2026-01-05T02:55:01.708Z"}
+[2026-01-05T02:55:07.620Z] Speed reading: {"id":"d3e2f6bb-adb5-429c-9e1e-e893fc016025","sensorId":"sensor-1","currentSpeed":65.7}
+[2026-01-05T02:55:07.734Z] Weather reading: {"id":"c46629ea-6033-4af3-a5f1-16ce381cabed","sensorId":"sensor-2","temperature":34.90412991625158,"humidity":47.413991834305676}
+[2026-01-05T02:55:07.854Z] Traffic reading: {"id":"a8a67e41-2f3c-4c1e-8f74-31a15af9e311","sensorId":"sensor-3","vehicleCount":71,"averageSpeed":15.5}
+[2026-01-05T02:55:07.932Z] Traffic reading: {"id":"500fdb5c-93fd-4661-9ed2-8ef4ab2389a5","sensorId":"sensor-4","vehicleCount":14,"averageSpeed":32.3}
+[2026-01-05T02:55:08.049Z] Air quality reading: {"id":"279e44ea-1ab0-4986-a969-839fe0cc0013","sensorId":"sensor-5","aqi":474}
+[2026-01-05T02:55:11.298Z] Speed reading: {"id":"62e53f30-9ead-4a2e-a908-f21c2fbd2a82","sensorId":"sensor-1","currentSpeed":85.5}
+[2026-01-05T02:55:11.391Z] Weather reading: {"id":"9a47d3bb-4b20-4e2f-bfa4-8d644b1dc5ba","sensorId":"sensor-2","temperature":9.7078972121163,"humidity":42.49598833083397}
+[2026-01-05T02:55:11.482Z] Speed reading: {"id":"3cbc4990-166b-480a-8d74-603ad5777a56","sensorId":"sensor-3","currentSpeed":63.7}
+[2026-01-05T02:55:11.584Z] Speed reading: {"id":"69e0762d-b526-42f4-adb2-2833115ce9cf","sensorId":"sensor-4","currentSpeed":68.5}
+[2026-01-05T02:55:11.684Z] Air quality reading: {"id":"186bbcf2-7169-4335-bc9c-64303692ab5e","sensorId":"sensor-5","aqi":403}
+[2026-01-05T02:55:17.578Z] Speed reading: {"id":"ac2b72d1-9bc6-4f3f-8bef-c9939afb548e","sensorId":"sensor-1","currentSpeed":129.5}
+[2026-01-05T02:55:17.742Z] Weather reading: {"id":"2e8f9dea-836a-498b-99e3-bf3b9ed68b8a","sensorId":"sensor-2","temperature":30.905942748050492,"humidity":5.542016158571384}
+[2026-01-05T02:55:17.839Z] Traffic reading: {"id":"6fe8b40a-7a4a-4f9f-aa90-f36b5f2b81f2","sensorId":"sensor-3","vehicleCount":1,"averageSpeed":37.5}
+[2026-01-05T02:55:17.915Z] Traffic reading: {"id":"be37c498-8ce5-4cbd-9e91-ff58586bc26a","sensorId":"sensor-4","vehicleCount":38,"averageSpeed":36.6}
+[2026-01-05T02:55:18.002Z] Air quality reading: {"id":"57f42acf-646e-4ca8-82e5-f07b45bf6f56","sensorId":"sensor-5","aqi":99}
+[2026-01-05T02:55:21.323Z] Speed reading: {"id":"1d48df8b-10f5-4a8e-8201-50bf760ae73e","sensorId":"sensor-1","currentSpeed":83.7}
+[2026-01-05T02:55:21.446Z] Weather reading: {"id":"b994bb09-f269-447a-bc37-cf1870257bab","sensorId":"sensor-2","temperature":3.5530658588828565,"humidity":78.9368544574587}
+[2026-01-05T02:55:21.556Z] Speed reading: {"id":"cb4af0ef-d3ca-49e2-a4af-5a050721f694","sensorId":"sensor-3","currentSpeed":127.5}
+[2026-01-05T02:55:21.664Z] Speed reading: {"id":"dffd5776-d6df-4e87-9402-a2e5a54edead","sensorId":"sensor-4","currentSpeed":82.5}
+[2026-01-05T02:55:21.790Z] Air quality reading: {"id":"04e22679-7dfd-424f-bdf1-9d365b1d5e4f","sensorId":"sensor-5","aqi":91}
+[2026-01-05T02:55:27.637Z] Speed reading: {"id":"a19eb7a3-c719-494c-9c62-19b0f5eec166","sensorId":"sensor-1","currentSpeed":129.1}
+[2026-01-05T02:55:27.755Z] Weather reading: {"id":"97f1fade-975b-43a7-aa94-e649feb3be85","sensorId":"sensor-2","temperature":10.13555285473413,"humidity":48.524667292828184}
+[2026-01-05T02:55:27.861Z] Traffic reading: {"id":"925449b5-4d80-44d0-836a-e92cde4137a8","sensorId":"sensor-3","vehicleCount":40,"averageSpeed":95.6}
+[2026-01-05T02:55:27.957Z] Traffic reading: {"id":"68ad3805-b525-4fe7-a4a9-76e802bf02b7","sensorId":"sensor-4","vehicleCount":69,"averageSpeed":19.8}
+[2026-01-05T02:55:28.063Z] Air quality reading: {"id":"8a8ef8d6-7865-4353-95f1-235b82690ed9","sensorId":"sensor-5","aqi":340}
+[2026-01-05T02:55:31.315Z] Speed reading: {"id":"9387bdf7-706d-4c9b-baad-501209afe8c6","sensorId":"sensor-1","currentSpeed":22.5}
+[2026-01-05T02:55:31.420Z] Weather reading: {"id":"d3c9b32c-2127-401e-afa5-96c6c68bbff4","sensorId":"sensor-2","temperature":6.417893000401239,"humidity":38.87501033032492}
+[2026-01-05T02:55:31.499Z] Speed reading: {"id":"b958db72-80df-48e9-9a00-71d84115cd81","sensorId":"sensor-3","currentSpeed":16.3}
+[2026-01-05T02:55:31.592Z] Speed reading: {"id":"071d81b5-1361-494c-82e1-a8c9dd0bbcd6","sensorId":"sensor-4","currentSpeed":140.8}
+[2026-01-05T02:55:31.671Z] Air quality reading: {"id":"14d61cad-c87f-40a7-aaec-38e4e551f4e3","sensorId":"sensor-5","aqi":129}
+[2026-01-05T02:55:31.727Z] Traffic event: {"id":"63f4edaf-7931-41fe-9a28-3d984a404887","type":"congestion","roadId":"road-7","severity":"medium","description":"Vigor tenax odit crastinus.","timestamp":"2026-01-05T02:55:31.671Z"}
+[2026-01-05T02:55:37.632Z] Speed reading: {"id":"cdffe89a-1cc6-4b11-a298-8297a018b448","sensorId":"sensor-1","currentSpeed":30.2}
+[2026-01-05T02:55:37.730Z] Weather reading: {"id":"4f3f56b9-137b-4fe8-b9c8-b74bcad6d62f","sensorId":"sensor-2","temperature":1.068670305735285,"humidity":96.2095302963075}
+[2026-01-05T02:55:37.882Z] Traffic reading: {"id":"da3288c4-216b-49db-927d-0fb773afce83","sensorId":"sensor-3","vehicleCount":13,"averageSpeed":65.8}
+[2026-01-05T02:55:38.004Z] Traffic reading: {"id":"2d38b744-c45b-4750-9ca9-99d559b2c5de","sensorId":"sensor-4","vehicleCount":16,"averageSpeed":76.9}
+[2026-01-05T02:55:38.148Z] Air quality reading: {"id":"7b90d96b-2ad2-4ac7-8ed0-8fac83331dce","sensorId":"sensor-5","aqi":266}
+[2026-01-05T02:55:41.325Z] Speed reading: {"id":"e532c1b4-640f-42a3-9db2-f3e5e4cfa514","sensorId":"sensor-1","currentSpeed":87.7}
+[2026-01-05T02:55:41.433Z] Weather reading: {"id":"76706f0d-c404-4351-904b-91fa0501f5a9","sensorId":"sensor-2","temperature":24.162217641664157,"humidity":75.8064270410999}
+[2026-01-05T02:55:41.508Z] Speed reading: {"id":"d85baf9b-fd6a-47bb-95ac-536689322a8c","sensorId":"sensor-3","currentSpeed":72.4}
+[2026-01-05T02:55:41.638Z] Speed reading: {"id":"7d20f829-fb8e-4ff0-9dd8-1998da69d034","sensorId":"sensor-4","currentSpeed":122.9}
+[2026-01-05T02:55:41.739Z] Air quality reading: {"id":"8b880c08-3ad8-426f-8631-e27aa9ffdb66","sensorId":"sensor-5","aqi":275}
+[2026-01-05T02:55:47.720Z] Speed reading: {"id":"8d28a818-9fc2-48d0-a77a-085d1169f7fb","sensorId":"sensor-1","currentSpeed":113.2}
+[2026-01-05T02:55:47.896Z] Weather reading: {"id":"843080e9-76df-4fd8-8729-904600f578e1","sensorId":"sensor-2","temperature":27.54145135026407,"humidity":43.76791059423345}
+[2026-01-05T02:55:48.270Z] Traffic reading: {"id":"667d14e0-4160-4586-9b53-b37d2f2a1fef","sensorId":"sensor-3","vehicleCount":19,"averageSpeed":32.9}
+[2026-01-05T02:55:48.492Z] Traffic reading: {"id":"4750aed2-e8b1-4a0b-8483-f5945ef4e41f","sensorId":"sensor-4","vehicleCount":19,"averageSpeed":80.2}
+[2026-01-05T02:55:48.662Z] Air quality reading: {"id":"f862a946-1c98-43af-aca4-20605c7d856b","sensorId":"sensor-5","aqi":131}
+[2026-01-05T02:55:51.391Z] Speed reading: {"id":"3d07286e-5deb-453a-95ac-b3a5a8867772","sensorId":"sensor-1","currentSpeed":43.2}
+[2026-01-05T02:55:51.542Z] Weather reading: {"id":"5eb9f24b-cdcc-4407-bc56-daedea791531","sensorId":"sensor-2","temperature":17.652088564095106,"humidity":17.954967819744073}
+[2026-01-05T02:55:51.644Z] Speed reading: {"id":"a46dc8b4-3bbf-4116-9291-e3f74b16934c","sensorId":"sensor-3","currentSpeed":64.5}
+[2026-01-05T02:55:51.764Z] Speed reading: {"id":"14fbb80d-b806-4cea-bd30-8b829f03cda4","sensorId":"sensor-4","currentSpeed":82.9}
+[2026-01-05T02:55:51.866Z] Air quality reading: {"id":"889f37b0-81b7-49bf-a232-e0e79a94ee3c","sensorId":"sensor-5","aqi":297}
+[2026-01-05T02:55:57.618Z] Speed reading: {"id":"e902da6f-4967-4e3f-8eb2-d60fa5f930ea","sensorId":"sensor-1","currentSpeed":73.9}
+[2026-01-05T02:55:57.749Z] Weather reading: {"id":"1a182e37-4d5c-4170-9d89-22a15def1663","sensorId":"sensor-2","temperature":10.921242229030472,"humidity":84.78091490657971}
+[2026-01-05T02:55:57.873Z] Traffic reading: {"id":"972cb0e3-ad97-45a2-9c83-707645392d14","sensorId":"sensor-3","vehicleCount":42,"averageSpeed":18.2}
+[2026-01-05T02:55:57.969Z] Traffic reading: {"id":"bfccfe3c-a2c3-43f3-a5e8-2541d0dce966","sensorId":"sensor-4","vehicleCount":74,"averageSpeed":112.3}
+[2026-01-05T02:55:58.091Z] Air quality reading: {"id":"f321c51f-e4fb-4d0e-b8e8-6f88e17b2b14","sensorId":"sensor-5","aqi":230}
+[2026-01-05T02:56:01.353Z] Speed reading: {"id":"f8fea1e1-0664-4898-b27c-5c46a15ab9ec","sensorId":"sensor-1","currentSpeed":13.5}
+[2026-01-05T02:56:01.463Z] Weather reading: {"id":"88028402-5011-48be-92f0-d86e252928dc","sensorId":"sensor-2","temperature":24.67668888607681,"humidity":93.70139613092392}
+[2026-01-05T02:56:01.556Z] Speed reading: {"id":"05cd29d4-e8c1-450f-9e9c-daa0aad4f5f4","sensorId":"sensor-3","currentSpeed":46.2}
+[2026-01-05T02:56:01.659Z] Speed reading: {"id":"3846c1a0-a0f7-486f-a0a7-3903df1936a4","sensorId":"sensor-4","currentSpeed":109.7}
+[2026-01-05T02:56:01.768Z] Air quality reading: {"id":"8c397f96-2699-477f-b473-a473a1f3ea92","sensorId":"sensor-5","aqi":458}
+[2026-01-05T02:56:07.623Z] Speed reading: {"id":"6b44e3e2-dc08-4d66-b31c-394feb5a3d15","sensorId":"sensor-1","currentSpeed":131.1}
+[2026-01-05T02:56:07.688Z] Weather reading: {"id":"7e4d56fe-6c91-4a5d-a557-50fc804a02f8","sensorId":"sensor-2","temperature":-7.469814480160549,"humidity":4.426563280532214}
+[2026-01-05T02:56:07.795Z] Traffic reading: {"id":"1481b756-1340-4ea2-ba4b-0906423b1871","sensorId":"sensor-3","vehicleCount":67,"averageSpeed":92.3}
+[2026-01-05T02:56:07.887Z] Traffic reading: {"id":"0f774734-7aae-40e6-8969-145bd503581d","sensorId":"sensor-4","vehicleCount":25,"averageSpeed":90.4}
+[2026-01-05T02:56:08.009Z] Air quality reading: {"id":"78b6a42c-6239-4cfb-ae47-7295fa0e4def","sensorId":"sensor-5","aqi":267}
+[2026-01-05T02:56:11.350Z] Speed reading: {"id":"59cd70ce-e728-419d-a7f5-c41f5cef401a","sensorId":"sensor-1","currentSpeed":121.4}
+[2026-01-05T02:56:11.465Z] Weather reading: {"id":"87f658ed-72d3-4a21-bf5a-b850a42b6c46","sensorId":"sensor-2","temperature":35.15715124152492,"humidity":96.04038615121418}
+[2026-01-05T02:56:11.551Z] Speed reading: {"id":"b00fefbf-10af-44ad-b20b-e469c3114d0a","sensorId":"sensor-3","currentSpeed":59.5}
+[2026-01-05T02:56:11.651Z] Speed reading: {"id":"825ed33b-4602-4a0a-8c0c-3c21f30bac09","sensorId":"sensor-4","currentSpeed":143.3}
+[2026-01-05T02:56:11.761Z] Air quality reading: {"id":"9f2910ee-8256-4e0b-a19b-b4dcba31712c","sensorId":"sensor-5","aqi":338}
+[2026-01-05T02:56:11.829Z] Traffic event: {"id":"6078fb5d-41b6-4db2-9b1f-83c94abdde0f","type":"congestion","roadId":"road-10","severity":"critical","description":"Complectus nobis tener surgo unus fugit.","timestamp":"2026-01-05T02:56:11.761Z"}
+[2026-01-05T02:56:17.613Z] Speed reading: {"id":"e992e8ac-b6fd-4fef-bcc4-6dc5e3e816a9","sensorId":"sensor-1","currentSpeed":5.1}
+[2026-01-05T02:56:17.712Z] Weather reading: {"id":"2cdc6555-3c3c-4231-b159-1302a9258d88","sensorId":"sensor-2","temperature":-3.0005433694653716,"humidity":43.875626588986385}
+[2026-01-05T02:56:17.875Z] Traffic reading: {"id":"f0d235e0-b935-40c7-a2fd-71899b13f3df","sensorId":"sensor-3","vehicleCount":4,"averageSpeed":60.9}
+[2026-01-05T02:56:18.011Z] Traffic reading: {"id":"5a7230c3-e37b-4e95-824b-b1d092905002","sensorId":"sensor-4","vehicleCount":17,"averageSpeed":94.8}
+[2026-01-05T02:56:18.106Z] Air quality reading: {"id":"d1023291-d0df-40eb-a651-6914a33b3f2f","sensorId":"sensor-5","aqi":28}
+[2026-01-05T02:56:18.158Z] Traffic event: {"id":"28f6d522-7fc1-4a9c-9a02-cea893a5a80d","type":"closure","roadId":"road-8","severity":"critical","description":"Impedit uredo esse comminor amplus socius terga crinis patrocinor.","timestamp":"2026-01-05T02:56:18.106Z"}
+[2026-01-05T02:56:21.350Z] Speed reading: {"id":"b0f49b05-6198-4dea-b690-b1c52dc0a8cc","sensorId":"sensor-1","currentSpeed":130.4}
+[2026-01-05T02:56:21.445Z] Weather reading: {"id":"0f002dd8-e8cb-4bc0-8411-e6e1e35451a6","sensorId":"sensor-2","temperature":23.961530347212573,"humidity":95.34011997132939}
+[2026-01-05T02:56:21.547Z] Speed reading: {"id":"1696a939-63f7-4085-b54a-8e362d05d4fe","sensorId":"sensor-3","currentSpeed":65.1}
+[2026-01-05T02:56:21.649Z] Speed reading: {"id":"b05af3c6-3c77-4244-bc7d-322a2b0c143d","sensorId":"sensor-4","currentSpeed":34.9}
+[2026-01-05T02:56:21.749Z] Air quality reading: {"id":"86ba19b3-b14b-4675-b2d0-a2a942291334","sensorId":"sensor-5","aqi":226}
+[2026-01-05T02:56:27.712Z] Speed reading: {"id":"c98becbb-6c70-4154-b3f2-c6878a59e365","sensorId":"sensor-1","currentSpeed":49}
+[2026-01-05T02:56:27.828Z] Weather reading: {"id":"5c431d24-eae9-4080-8de1-555bd1511419","sensorId":"sensor-2","temperature":38.37666376640388,"humidity":32.23641113094372}
+[2026-01-05T02:56:27.949Z] Traffic reading: {"id":"032df54c-aded-4583-9a21-0433d5e054e0","sensorId":"sensor-3","vehicleCount":9,"averageSpeed":39}
+[2026-01-05T02:56:28.099Z] Traffic reading: {"id":"85cc2000-1e34-436a-968f-430d3ff35659","sensorId":"sensor-4","vehicleCount":31,"averageSpeed":38.6}
+[2026-01-05T02:56:28.184Z] Air quality reading: {"id":"c5d85505-c442-4bd6-b23e-2bd688dcf526","sensorId":"sensor-5","aqi":174}
+[2026-01-05T02:56:31.363Z] Speed reading: {"id":"d52304aa-03a5-4cf5-88de-3d2b981dbe15","sensorId":"sensor-1","currentSpeed":1.7}
+[2026-01-05T02:56:31.450Z] Weather reading: {"id":"33f8cf22-4b3f-43f8-9590-ef7fedb2f53b","sensorId":"sensor-2","temperature":6.368741897043915,"humidity":18.39300397938769}
+[2026-01-05T02:56:31.540Z] Speed reading: {"id":"2159ba98-b447-44b7-bdf6-fd6349f8116a","sensorId":"sensor-3","currentSpeed":53.8}
+[2026-01-05T02:56:31.655Z] Speed reading: {"id":"db69f306-9172-43f6-b35b-9a3467f8f882","sensorId":"sensor-4","currentSpeed":33.3}
+[2026-01-05T02:56:31.782Z] Air quality reading: {"id":"48a230b2-1df2-4538-ae42-12c96914888e","sensorId":"sensor-5","aqi":319}
+[2026-01-05T02:56:37.655Z] Speed reading: {"id":"32909869-27af-4442-8f67-7b3fe7c62ffc","sensorId":"sensor-1","currentSpeed":34}
+[2026-01-05T02:56:37.753Z] Weather reading: {"id":"684399fc-4b1b-430f-bfd4-8384d4af57fe","sensorId":"sensor-2","temperature":8.380519214008466,"humidity":66.88649784034891}
+[2026-01-05T02:56:37.833Z] Traffic reading: {"id":"8cfd5cba-3433-4bd6-bca4-d0c445955a5e","sensorId":"sensor-3","vehicleCount":68,"averageSpeed":59}
+[2026-01-05T02:56:37.937Z] Traffic reading: {"id":"ec5fefda-52db-47e4-a7aa-462399826a30","sensorId":"sensor-4","vehicleCount":14,"averageSpeed":113.3}
+[2026-01-05T02:56:38.032Z] Air quality reading: {"id":"c3984e8a-5cbe-4224-9fd0-9b238ec6185d","sensorId":"sensor-5","aqi":312}
+[2026-01-05T02:56:38.108Z] Traffic event: {"id":"1ee25620-1d33-4e61-bb9d-3b8c045f5278","type":"roadwork","roadId":"road-3","severity":"critical","description":"Tonsor adduco bellum stillicidium quia aeger.","timestamp":"2026-01-05T02:56:38.035Z"}
+[2026-01-05T02:56:41.356Z] Speed reading: {"id":"4a4cd7f0-0203-4356-a817-d71f68240acc","sensorId":"sensor-1","currentSpeed":135.2}
+[2026-01-05T02:56:41.449Z] Weather reading: {"id":"df6c2bf4-64c0-4737-81bf-e0ec14c4a420","sensorId":"sensor-2","temperature":-9.190035113513225,"humidity":80.99778969689923}
+[2026-01-05T02:56:41.533Z] Speed reading: {"id":"3d0e94fd-47cb-446f-bf4c-4bc5ac50e1af","sensorId":"sensor-3","currentSpeed":102.9}
+[2026-01-05T02:56:41.609Z] Speed reading: {"id":"7e1ac420-dfcd-40d3-b067-77e47e4ba6da","sensorId":"sensor-4","currentSpeed":122}
+[2026-01-05T02:56:41.732Z] Air quality reading: {"id":"0c535a04-2d54-4073-9b2c-9e9a89206262","sensorId":"sensor-5","aqi":22}
+[2026-01-05T02:56:41.775Z] Traffic event: {"id":"693d87d5-80cf-4038-9537-f1dd3d58b0f8","type":"closure","roadId":"road-4","severity":"low","description":"Vesco vester calculus atqui suffragium arguo patior consequuntur quod aestivus.","timestamp":"2026-01-05T02:56:41.733Z"}
+[2026-01-05T02:56:47.651Z] Speed reading: {"id":"18042bc6-c9c2-4331-92a4-94b0bd0b77a8","sensorId":"sensor-1","currentSpeed":133.6}
+[2026-01-05T02:56:47.723Z] Weather reading: {"id":"5783e803-6256-4ad4-9d70-c7dbe8ac93b1","sensorId":"sensor-2","temperature":24.66772267847759,"humidity":1.8624497140751317}
+[2026-01-05T02:56:47.828Z] Traffic reading: {"id":"cdf85a0d-d74a-4d9f-b92b-a862ae744c74","sensorId":"sensor-3","vehicleCount":89,"averageSpeed":119.2}
+[2026-01-05T02:56:47.919Z] Traffic reading: {"id":"55acbd1f-3b2e-4141-8e2a-be4c6e282116","sensorId":"sensor-4","vehicleCount":20,"averageSpeed":74.9}
+[2026-01-05T02:56:48.011Z] Air quality reading: {"id":"9805dc44-3acf-44d8-a811-9b0d10af4322","sensorId":"sensor-5","aqi":466}
+[2026-01-05T02:56:51.369Z] Speed reading: {"id":"6de3ac07-762c-4c94-91e5-16f35111bcb4","sensorId":"sensor-1","currentSpeed":111}
+[2026-01-05T02:56:51.494Z] Weather reading: {"id":"6397d893-9bca-4e58-be0c-3732baba8a37","sensorId":"sensor-2","temperature":14.050060787818222,"humidity":62.9151594760819}
+[2026-01-05T02:56:51.591Z] Speed reading: {"id":"d2f1e5a1-d830-4a87-a371-1ffe4df698f2","sensorId":"sensor-3","currentSpeed":71.7}
+[2026-01-05T02:56:51.681Z] Speed reading: {"id":"f306deff-a16e-4a64-aa70-c5eee2d19c28","sensorId":"sensor-4","currentSpeed":96.2}
+[2026-01-05T02:56:51.809Z] Air quality reading: {"id":"9bc07f7f-3e3a-4366-8dbc-2a56923e7bc9","sensorId":"sensor-5","aqi":52}
+[2026-01-05T02:56:57.703Z] Speed reading: {"id":"db5ee736-fc0d-41da-abf6-9a26c8fe3d02","sensorId":"sensor-1","currentSpeed":5}
+[2026-01-05T02:56:57.820Z] Weather reading: {"id":"733e527b-d497-4ccb-b9e8-32e9cacdbe70","sensorId":"sensor-2","temperature":4.325010039493202,"humidity":70.75688115321417}
+[2026-01-05T02:56:57.921Z] Traffic reading: {"id":"92850801-eee1-42d3-b287-c651f8545ce5","sensorId":"sensor-3","vehicleCount":72,"averageSpeed":92.3}
+[2026-01-05T02:56:57.997Z] Traffic reading: {"id":"08ab24f0-679e-46d4-8dc6-fae1dfcb5f84","sensorId":"sensor-4","vehicleCount":87,"averageSpeed":102.9}
+[2026-01-05T02:56:58.102Z] Air quality reading: {"id":"82a7c331-7caf-4bdf-95a0-d0f33dbce033","sensorId":"sensor-5","aqi":469}
+[2026-01-05T02:57:01.400Z] Speed reading: {"id":"bece7b46-9cac-4ae9-819d-491274f0971d","sensorId":"sensor-1","currentSpeed":146.8}
+[2026-01-05T02:57:01.483Z] Weather reading: {"id":"ab6bec81-0bd8-4565-8870-e61252ff8e50","sensorId":"sensor-2","temperature":-4.892068864567102,"humidity":18.58767401217458}
+[2026-01-05T02:57:01.578Z] Speed reading: {"id":"ff5b0ed2-f5b9-4b47-9f1a-2396be414e47","sensorId":"sensor-3","currentSpeed":44}
+[2026-01-05T02:57:01.676Z] Speed reading: {"id":"0b358ddf-8353-488f-a599-33bcd9650f17","sensorId":"sensor-4","currentSpeed":4.6}
+[2026-01-05T02:57:01.786Z] Air quality reading: {"id":"6b3090b9-73be-495b-a60a-8e7ef8e4787d","sensorId":"sensor-5","aqi":459}
+[2026-01-05T02:57:07.715Z] Speed reading: {"id":"820c0420-e1bb-4de4-8b58-fa674167dbeb","sensorId":"sensor-1","currentSpeed":136.3}
+[2026-01-05T02:57:07.823Z] Weather reading: {"id":"fc76a5ce-4c09-41ca-99f8-3245bb5bd0e1","sensorId":"sensor-2","temperature":39.76136047909783,"humidity":30.61468730257345}
+[2026-01-05T02:57:07.939Z] Traffic reading: {"id":"8215e35b-f5f0-4645-bcb1-635bcea297f1","sensorId":"sensor-3","vehicleCount":29,"averageSpeed":22.1}
+[2026-01-05T02:57:08.017Z] Traffic reading: {"id":"09e2ff8a-f269-4943-adce-73ff4d49769d","sensorId":"sensor-4","vehicleCount":16,"averageSpeed":80.7}
+[2026-01-05T02:57:08.234Z] Air quality reading: {"id":"b1439669-aeb6-41e9-9ca1-d3487f65c1fe","sensorId":"sensor-5","aqi":327}
+[2026-01-05T02:57:11.430Z] Speed reading: {"id":"204207e4-6945-4114-8dc6-1ab3f6f00a31","sensorId":"sensor-1","currentSpeed":109.4}
+[2026-01-05T02:57:11.520Z] Weather reading: {"id":"350a856c-4048-47df-8e6d-46fd2d8c4f7f","sensorId":"sensor-2","temperature":9.094596721121082,"humidity":37.37821185985162}
+[2026-01-05T02:57:11.635Z] Speed reading: {"id":"53f69b76-8ccf-49c2-81fb-d08f81929bc5","sensorId":"sensor-3","currentSpeed":55}
+[2026-01-05T02:57:11.744Z] Speed reading: {"id":"db979471-1924-49be-adf5-3fe5b2a126e3","sensorId":"sensor-4","currentSpeed":13.6}
+[2026-01-05T02:57:11.820Z] Air quality reading: {"id":"39455a33-7cd3-4ad5-8f33-d46e4c5cac61","sensorId":"sensor-5","aqi":127}
+[2026-01-05T02:57:17.668Z] Speed reading: {"id":"f9b8c909-322f-45dc-9b73-f4b73bdeb5cf","sensorId":"sensor-1","currentSpeed":41.3}
+[2026-01-05T02:57:17.803Z] Weather reading: {"id":"dfc74abc-bcd3-4a50-904d-d20748f99b4d","sensorId":"sensor-2","temperature":22.070566011628905,"humidity":57.203011835156545}
+[2026-01-05T02:57:17.912Z] Traffic reading: {"id":"4e39e64a-feb4-4832-8004-adb7ae77eb40","sensorId":"sensor-3","vehicleCount":39,"averageSpeed":99.4}
+[2026-01-05T02:57:18.005Z] Traffic reading: {"id":"d199cc2f-b025-4435-9fc9-2dd17fba5565","sensorId":"sensor-4","vehicleCount":56,"averageSpeed":13.8}
+[2026-01-05T02:57:18.096Z] Air quality reading: {"id":"86e6cbd2-7b3d-4810-a129-c040ec775666","sensorId":"sensor-5","aqi":190}
+[2026-01-05T02:57:21.404Z] Speed reading: {"id":"7a96382d-960b-4e13-9bf1-9ee94da13cdf","sensorId":"sensor-1","currentSpeed":85.7}
+[2026-01-05T02:57:21.511Z] Weather reading: {"id":"363d9b61-4505-4717-9273-93faccebe7be","sensorId":"sensor-2","temperature":5.549168459810241,"humidity":29.5775596290352}
+[2026-01-05T02:57:21.584Z] Speed reading: {"id":"ae1f61f5-8d5f-4499-b838-3727d445725e","sensorId":"sensor-3","currentSpeed":13.3}
+[2026-01-05T02:57:21.684Z] Speed reading: {"id":"79225a57-d365-44de-bce8-8eb3425e3388","sensorId":"sensor-4","currentSpeed":142.6}
+[2026-01-05T02:57:21.798Z] Air quality reading: {"id":"63f589b8-38d8-45fc-bfe5-13425b2cfc41","sensorId":"sensor-5","aqi":50}
+[2026-01-05T02:57:27.677Z] Speed reading: {"id":"c2287aa1-15b3-4221-ab7e-80a7eaa5e89e","sensorId":"sensor-1","currentSpeed":109.9}
+[2026-01-05T02:57:27.768Z] Weather reading: {"id":"9863a267-7413-4b5a-9de6-6345e5faf19e","sensorId":"sensor-2","temperature":28.827548630450806,"humidity":16.8994198663192}
+[2026-01-05T02:57:27.869Z] Traffic reading: {"id":"388622cb-368d-46ad-ad4a-da59c28a6322","sensorId":"sensor-3","vehicleCount":29,"averageSpeed":77.5}
+[2026-01-05T02:57:27.968Z] Traffic reading: {"id":"ab9f24df-042a-4224-a636-b68edd8bd00e","sensorId":"sensor-4","vehicleCount":30,"averageSpeed":25.1}
+[2026-01-05T02:57:28.056Z] Air quality reading: {"id":"ba5f7c18-a93d-4ede-969e-341a7c1b6b0c","sensorId":"sensor-5","aqi":54}
+[2026-01-05T02:57:31.423Z] Speed reading: {"id":"3ef4eb5b-6da3-4050-9175-551b846816d9","sensorId":"sensor-1","currentSpeed":80.1}
+[2026-01-05T02:57:31.525Z] Weather reading: {"id":"a8127319-5e52-410d-9c9e-ed5bb794bfc2","sensorId":"sensor-2","temperature":8.071261687768498,"humidity":25.047646606201567}
+[2026-01-05T02:57:31.622Z] Speed reading: {"id":"be2af167-d205-406f-bcae-f175b20059c6","sensorId":"sensor-3","currentSpeed":35.9}
+[2026-01-05T02:57:31.734Z] Speed reading: {"id":"de33bf67-f4a4-4869-b17f-cce82f90f9b4","sensorId":"sensor-4","currentSpeed":100.2}
+[2026-01-05T02:57:31.819Z] Air quality reading: {"id":"a92c5805-7c78-4075-b41a-1129c7357a7e","sensorId":"sensor-5","aqi":48}
+[2026-01-05T02:57:31.873Z] Traffic event: {"id":"8bc6e502-bde2-4368-9b88-a4acfad0052c","type":"closure","roadId":"road-8","severity":"critical","description":"Velum tubineus vir alioqui.","timestamp":"2026-01-05T02:57:31.819Z"}
+[2026-01-05T02:57:37.720Z] Speed reading: {"id":"5219dff3-b178-4c64-a7ae-fa19678d0f15","sensorId":"sensor-1","currentSpeed":15}
+[2026-01-05T02:57:37.841Z] Weather reading: {"id":"a4fcc07f-ef0f-4fd7-8975-f1f90cf5f95b","sensorId":"sensor-2","temperature":-3.960711688734067,"humidity":95.64624789374645}
+[2026-01-05T02:57:37.951Z] Traffic reading: {"id":"9e200d5a-5e0e-48b0-b6a9-d6dec9e6ded5","sensorId":"sensor-3","vehicleCount":88,"averageSpeed":98.1}
+[2026-01-05T02:57:38.054Z] Traffic reading: {"id":"f57292cf-3577-4457-aaa7-dc85c28b3c5f","sensorId":"sensor-4","vehicleCount":85,"averageSpeed":35.2}
+[2026-01-05T02:57:38.139Z] Air quality reading: {"id":"7c01309d-6649-4319-bdd1-66c4ba2d4936","sensorId":"sensor-5","aqi":368}
+[2026-01-05T02:57:38.184Z] Traffic event: {"id":"e245bdb2-76ed-45fa-b3ae-1c1e65bd68d8","type":"accident","roadId":"road-6","severity":"high","description":"Deinde tego sub.","timestamp":"2026-01-05T02:57:38.139Z"}
+[2026-01-05T02:57:41.449Z] Speed reading: {"id":"82cca614-4697-4199-bf67-99af17ca1bb0","sensorId":"sensor-1","currentSpeed":102.5}
+[2026-01-05T02:57:41.561Z] Weather reading: {"id":"ec461bec-878c-4d12-9e45-2817bcb5760d","sensorId":"sensor-2","temperature":19.75540625757659,"humidity":44.31356915511954}
+[2026-01-05T02:57:41.627Z] Speed reading: {"id":"3fdaf001-723e-40d0-91a3-195d9eeb5199","sensorId":"sensor-3","currentSpeed":8.9}
+[2026-01-05T02:57:41.719Z] Speed reading: {"id":"79229aa9-bac2-4753-b5dd-31748de783dd","sensorId":"sensor-4","currentSpeed":13.4}
+[2026-01-05T02:57:41.811Z] Air quality reading: {"id":"fa32e57c-343c-418e-85bd-999786dd5d01","sensorId":"sensor-5","aqi":377}
+[2026-01-05T02:57:41.882Z] Traffic event: {"id":"d92b3219-3231-496b-8026-9965c1220db2","type":"congestion","roadId":"road-8","severity":"high","description":"Constans accendo abbas cogo cupiditas quaerat adficio copiose.","timestamp":"2026-01-05T02:57:41.812Z"}
+[2026-01-05T02:57:47.667Z] Speed reading: {"id":"c440cb4d-331a-4747-8fda-4feff7c3c6a5","sensorId":"sensor-1","currentSpeed":32.1}
+[2026-01-05T02:57:47.796Z] Weather reading: {"id":"c9e5bfae-318b-4867-a23b-e071021c141a","sensorId":"sensor-2","temperature":5.060188577265016,"humidity":14.84914845508748}
+[2026-01-05T02:57:47.930Z] Traffic reading: {"id":"3d6c931a-905a-4ed8-8227-9ea5a6085985","sensorId":"sensor-3","vehicleCount":4,"averageSpeed":49.1}
+[2026-01-05T02:57:48.030Z] Traffic reading: {"id":"ca08e4a1-37b2-4867-82d1-c40d223b6791","sensorId":"sensor-4","vehicleCount":97,"averageSpeed":111.3}
+[2026-01-05T02:57:48.180Z] Air quality reading: {"id":"9af7aea5-aae6-46df-b7c7-88cc58d5b924","sensorId":"sensor-5","aqi":15}
+[2026-01-05T02:57:51.429Z] Speed reading: {"id":"7d4c4bb6-1266-492c-885e-4a78ce3658cc","sensorId":"sensor-1","currentSpeed":30.6}
+[2026-01-05T02:57:51.527Z] Weather reading: {"id":"383c892d-0e49-44fd-83c8-ad56c23ad3e6","sensorId":"sensor-2","temperature":21.491733475723155,"humidity":59.584778472695064}
+[2026-01-05T02:57:51.632Z] Speed reading: {"id":"3b55456b-4f1c-4e13-998c-02b61b84fef0","sensorId":"sensor-3","currentSpeed":128.5}
+[2026-01-05T02:57:51.734Z] Speed reading: {"id":"ea39a7a0-518b-4930-ac6d-a21015c5f83a","sensorId":"sensor-4","currentSpeed":8.1}
+[2026-01-05T02:57:51.816Z] Air quality reading: {"id":"fcb3b386-6116-4438-981b-0fe0ca673dbe","sensorId":"sensor-5","aqi":381}
+[2026-01-05T02:57:57.696Z] Speed reading: {"id":"ff53d4bf-9c22-4959-8786-add717ab70c9","sensorId":"sensor-1","currentSpeed":106}
+[2026-01-05T02:57:57.803Z] Weather reading: {"id":"541e0692-0705-431b-80ae-9c0947c6a6c6","sensorId":"sensor-2","temperature":19.402922614657236,"humidity":5.594498459938957}
+[2026-01-05T02:57:57.916Z] Traffic reading: {"id":"b9dd29e7-4199-4c06-aa86-74766182fc61","sensorId":"sensor-3","vehicleCount":42,"averageSpeed":39.6}
+[2026-01-05T02:57:58.004Z] Traffic reading: {"id":"ae9d4782-52de-4891-822a-44a9d388e07f","sensorId":"sensor-4","vehicleCount":45,"averageSpeed":107.1}
+[2026-01-05T02:57:58.128Z] Air quality reading: {"id":"5bd9c6c7-69ac-4cbd-96bd-d0aa1c40b86a","sensorId":"sensor-5","aqi":62}
+[2026-01-05T02:58:39.437Z] Traffic reading: {"id":"bf9adcf5-262a-4a20-8ac0-16ccf1ee5f88","sensorId":"sensor-1","vehicleCount":25,"averageSpeed":51.8}
+[2026-01-05T02:58:39.527Z] Air quality reading: {"id":"b82f21d5-810c-483c-80f9-c935529032a3","sensorId":"sensor-2","aqi":281}
+[2026-01-05T02:58:39.616Z] Weather reading: {"id":"972c35c1-34d9-4879-a26b-47cb9ab42845","sensorId":"sensor-3","temperature":15.406391274765362,"humidity":98.78424817184812}
+[2026-01-05T02:58:39.738Z] Air quality reading: {"id":"728a103b-66a0-47a7-a7fe-48f831e18d03","sensorId":"sensor-4","aqi":323}
+[2026-01-05T02:58:39.859Z] Weather reading: {"id":"76682ee0-bbe0-4e73-b37a-511d92626d71","sensorId":"sensor-5","temperature":10.196670327626254,"humidity":58.65485725392814}
+[2026-01-05T02:58:39.921Z] Traffic event: {"id":"f036609f-e6e2-470b-bce8-1f9de887f3bc","type":"closure","roadId":"road-2","severity":"low","description":"Carus caelestis somnus veritas.","timestamp":"2026-01-05T02:58:39.860Z"}
+[2026-01-05T02:58:49.412Z] Traffic reading: {"id":"545c3e3e-83de-47e2-bbdd-01bf17438b9e","sensorId":"sensor-1","vehicleCount":79,"averageSpeed":118.4}
+[2026-01-05T02:58:49.507Z] Air quality reading: {"id":"0d107fbc-6741-4b9a-b2c1-48cce3cdc47c","sensorId":"sensor-2","aqi":475}
+[2026-01-05T02:58:49.595Z] Weather reading: {"id":"ff8e1cd0-5031-40d6-808c-7a8fe1b6a161","sensorId":"sensor-3","temperature":-6.782133171401891,"humidity":44.764749153516945}
+[2026-01-05T02:58:49.736Z] Air quality reading: {"id":"c14a30c2-49a8-44eb-ab9c-b880f5fed9b2","sensorId":"sensor-4","aqi":367}
+[2026-01-05T02:58:49.836Z] Weather reading: {"id":"7b241038-a697-435c-bcdb-4732faedcd0e","sensorId":"sensor-5","temperature":39.124022237803544,"humidity":27.594431771695827}
+[2026-01-05T03:06:34.580Z] Speed reading: {"id":"0e7c8ab4-ac4c-4c89-9c00-d33ed779b7c3","sensorId":"sensor-1","currentSpeed":59.3}
+[2026-01-05T03:06:36.874Z] Traffic reading: {"id":"19361d12-3990-4d5b-a2a2-35fb3fd04c30","sensorId":"sensor-2","vehicleCount":68,"averageSpeed":43.3}
+[2026-01-05T03:06:39.223Z] Weather reading: {"id":"eaf62b7d-29f0-46bd-8c85-406e867f96d5","sensorId":"sensor-3","temperature":8.469357452585534,"humidity":70.33528822030978}
+[2026-01-05T03:06:55.542Z] Weather reading: {"id":"1fd120b9-f187-4617-b0bd-4fdb7456efb7","sensorId":"sensor-1","temperature":-7.588843502641098,"humidity":16.04298795895889}
+[2026-01-05T03:42:00.444Z] Speed reading: {"id":"43d1f0e4-12e8-4792-8ecd-958dbe7be96c","sensorId":"sensor-1","currentSpeed":147.2}
+[2026-01-05T03:42:02.797Z] Traffic reading: {"id":"1aa2db73-920a-46b7-aeb8-21192eaba709","sensorId":"sensor-2","vehicleCount":50,"averageSpeed":102.4}
+[2026-01-05T03:42:05.128Z] Air quality reading: {"id":"cb8a62ea-34d7-47c2-aa1a-44e4068f566b","sensorId":"sensor-3","aqi":499}
+[2026-01-05T03:42:07.441Z] Traffic reading: {"id":"637d55c3-d833-4e32-b570-0723e506b5ef","sensorId":"sensor-4","vehicleCount":53,"averageSpeed":86}
+[2026-01-05T03:42:09.720Z] Speed reading: {"id":"450fcd45-2715-4ec7-87a8-7f1a1953fe62","sensorId":"sensor-1","currentSpeed":124.7}
+[2026-01-05T03:42:09.733Z] Traffic reading: {"id":"cc03d283-5211-41fd-876d-ab690e8a0261","sensorId":"sensor-5","vehicleCount":41,"averageSpeed":104.7}
+[2026-01-05T03:42:12.041Z] Traffic reading: {"id":"499183e7-f121-4ee4-8f6e-12106bdf1c6d","sensorId":"sensor-2","vehicleCount":98,"averageSpeed":68.2}
+[2026-01-05T03:42:14.331Z] Air quality reading: {"id":"0399eb73-f138-4bf3-821c-ccde3028f452","sensorId":"sensor-3","aqi":397}
+[2026-01-05T03:42:16.595Z] Traffic reading: {"id":"3b378cd2-c6c2-4fc8-bb46-feb02edcb437","sensorId":"sensor-4","vehicleCount":87,"averageSpeed":113.2}
+[2026-01-05T03:42:18.842Z] Speed reading: {"id":"7018eaa6-3f7c-42ed-b558-34f8a938ffce","sensorId":"sensor-1","currentSpeed":136.3}
+[2026-01-05T03:42:18.844Z] Traffic reading: {"id":"f3df6bcb-a07f-4be7-980f-8e77c20121f9","sensorId":"sensor-5","vehicleCount":14,"averageSpeed":43.6}
+[2026-01-05T03:42:21.118Z] Traffic reading: {"id":"a36c416c-f71d-4636-9f98-9cc2f408cba6","sensorId":"sensor-2","vehicleCount":49,"averageSpeed":18.2}
+[2026-01-05T03:42:23.512Z] Air quality reading: {"id":"2272c734-8241-4e5e-8d4e-e63ce551fa46","sensorId":"sensor-3","aqi":469}
+[2026-01-05T03:42:25.978Z] Traffic reading: {"id":"71a4f7f0-8ab5-44af-9fb6-240439543e72","sensorId":"sensor-4","vehicleCount":59,"averageSpeed":19.4}
+[2026-01-05T03:42:28.414Z] Speed reading: {"id":"44dfe1a8-c208-49fa-8d20-80b9de6d03ed","sensorId":"sensor-1","currentSpeed":125.7}
+[2026-01-05T03:42:28.476Z] Traffic reading: {"id":"a033a502-5881-4e67-9af8-2211d2584bb4","sensorId":"sensor-5","vehicleCount":3,"averageSpeed":62.3}
+[2026-01-05T03:42:28.604Z] Traffic event: {"id":"5d8281b0-b176-42db-bf58-d9ee91ccbb96","type":"congestion","roadId":"road-4","severity":"low","description":"Caecus conqueror utrimque sortitus traho arma.","timestamp":"2026-01-05T03:42:28.479Z"}
+[2026-01-05T03:42:30.993Z] Traffic reading: {"id":"08b002fd-64fb-4728-ba40-67a123ff4b06","sensorId":"sensor-2","vehicleCount":56,"averageSpeed":33.2}
+[2026-01-05T03:42:33.340Z] Air quality reading: {"id":"d284a64a-2152-4e68-93f4-3baf87372e24","sensorId":"sensor-3","aqi":309}
+[2026-01-05T03:42:35.757Z] Traffic reading: {"id":"a7c58746-ad99-4847-862f-66976241c970","sensorId":"sensor-4","vehicleCount":74,"averageSpeed":19.3}
+[2026-01-05T03:42:38.129Z] Traffic reading: {"id":"3622f81e-0089-488a-961b-ba6d1cd5ebab","sensorId":"sensor-5","vehicleCount":75,"averageSpeed":29.5}
+[2026-01-05T03:42:40.502Z] Speed reading: {"id":"28908d7a-b84c-4a4b-bd25-6291504e99eb","sensorId":"sensor-1","currentSpeed":118.7}
+[2026-01-05T03:42:42.933Z] Traffic reading: {"id":"ea2b3312-21c4-4696-a9a4-ded10f0df683","sensorId":"sensor-2","vehicleCount":67,"averageSpeed":77.6}
+[2026-01-05T03:42:45.457Z] Air quality reading: {"id":"50156a97-be75-4145-b2a9-c87658434bc5","sensorId":"sensor-3","aqi":481}
+[2026-01-05T03:42:50.243Z] Traffic reading: {"id":"bef36b2c-746a-4bb8-ae4f-08e1062a1b20","sensorId":"sensor-4","vehicleCount":33,"averageSpeed":93.3}
+[2026-01-05T03:42:54.583Z] Traffic reading: {"id":"f52217ce-16d1-4f26-91b4-ddec2f946c64","sensorId":"sensor-5","vehicleCount":35,"averageSpeed":56.8}
+[2026-01-05T03:42:54.616Z] Speed reading: {"id":"810f0df3-996c-4fb3-a794-9198d9a39bd6","sensorId":"sensor-1","currentSpeed":29}
+[2026-01-05T03:42:57.295Z] Traffic reading: {"id":"7ba0739f-4f06-43f6-91a5-d0afa0b14e05","sensorId":"sensor-2","vehicleCount":83,"averageSpeed":45.1}
+[2026-01-05T03:42:59.907Z] Speed reading: {"id":"2e12e27c-99b7-4316-9178-90f78adb9666","sensorId":"sensor-1","currentSpeed":38.3}
+[2026-01-05T03:42:59.939Z] Air quality reading: {"id":"4c330b8d-dd54-488a-82f4-7f7b0fd4a04d","sensorId":"sensor-3","aqi":42}
+[2026-01-05T03:43:02.819Z] Traffic reading: {"id":"96025f81-08d9-4d75-a210-d368ef960a48","sensorId":"sensor-4","vehicleCount":42,"averageSpeed":19.2}
+[2026-01-05T03:43:02.841Z] Traffic reading: {"id":"f7cbb60d-6dcb-4464-be4c-893716673f41","sensorId":"sensor-2","vehicleCount":80,"averageSpeed":53}
+[2026-01-05T03:43:05.518Z] Traffic reading: {"id":"bbc10134-cb48-4400-90cd-20549d951372","sensorId":"sensor-5","vehicleCount":74,"averageSpeed":52}
+[2026-01-05T03:43:05.640Z] Air quality reading: {"id":"15f63401-3109-4e5b-b74f-1d90479c907f","sensorId":"sensor-3","aqi":415}
+[2026-01-05T03:43:05.931Z] Traffic event: {"id":"baf98093-7e93-4962-83a5-47118f879de9","type":"closure","roadId":"road-4","severity":"medium","description":"Cubitum cervus voluptatum asporto commodo turpis solum.","timestamp":"2026-01-05T03:43:05.533Z"}
+[2026-01-05T03:43:08.557Z] Traffic reading: {"id":"daa41c3e-4000-4870-bbdb-c73c471e636e","sensorId":"sensor-4","vehicleCount":17,"averageSpeed":86.9}
+[2026-01-05T03:43:10.899Z] Traffic reading: {"id":"ded46f45-4e60-448f-8671-4e5dfa1accb7","sensorId":"sensor-5","vehicleCount":73,"averageSpeed":93.2}
+[2026-01-05T03:43:10.906Z] Speed reading: {"id":"f6d0865b-c32b-41f1-8a58-d104a8c2c0f7","sensorId":"sensor-1","currentSpeed":92.3}
+[2026-01-05T03:43:14.246Z] Traffic reading: {"id":"ea4f8312-ab92-4a41-a1ed-bfac314f7385","sensorId":"sensor-2","vehicleCount":81,"averageSpeed":12.3}
+[2026-01-05T03:43:17.650Z] Air quality reading: {"id":"d10ce6a7-f662-4532-bc75-72ad9dff83b6","sensorId":"sensor-3","aqi":477}
+[2026-01-05T03:43:23.420Z] Speed reading: {"id":"ddd4fa60-79f5-4cf9-bcf6-f0fb32fa451f","sensorId":"sensor-1","currentSpeed":78.8}
+[2026-01-05T03:43:23.454Z] Traffic reading: {"id":"a85dc8f1-c628-4c55-b22f-324ebcc91ffc","sensorId":"sensor-4","vehicleCount":53,"averageSpeed":71.9}
+[2026-01-05T03:43:26.730Z] Traffic reading: {"id":"016c0ff0-4401-4c1b-a338-82269ff23687","sensorId":"sensor-2","vehicleCount":67,"averageSpeed":10.6}
+[2026-01-05T03:43:26.739Z] Traffic reading: {"id":"2372afd0-459d-4d29-a753-836268a7110b","sensorId":"sensor-5","vehicleCount":85,"averageSpeed":41}
+[2026-01-05T03:43:29.487Z] Speed reading: {"id":"d5b2e062-6b11-43da-9858-b8d3850d4b42","sensorId":"sensor-1","currentSpeed":134.2}
+[2026-01-05T03:43:29.495Z] Air quality reading: {"id":"85868dc2-c9a5-48d6-a414-20c7b5d289f2","sensorId":"sensor-3","aqi":481}
+[2026-01-05T03:43:31.922Z] Traffic reading: {"id":"b2a52637-125d-41b2-8355-d86dd02d752d","sensorId":"sensor-4","vehicleCount":28,"averageSpeed":76.3}
+[2026-01-05T03:43:31.926Z] Traffic reading: {"id":"27eff579-2649-478b-a591-b47376f03750","sensorId":"sensor-2","vehicleCount":98,"averageSpeed":17.1}
+[2026-01-05T03:43:34.366Z] Air quality reading: {"id":"a155bc7a-c81d-41be-8603-c1862c2e03e5","sensorId":"sensor-3","aqi":151}
+[2026-01-05T03:43:34.390Z] Traffic reading: {"id":"bfcaa136-4fe0-4be3-9d10-721af64d1fd3","sensorId":"sensor-5","vehicleCount":67,"averageSpeed":41.4}
+[2026-01-05T03:43:36.819Z] Traffic reading: {"id":"670fc5b5-b221-4d1a-936f-76167243f676","sensorId":"sensor-4","vehicleCount":36,"averageSpeed":78.7}
+[2026-01-05T03:43:39.440Z] Traffic reading: {"id":"db892cd9-e979-4589-b9de-2e25a32e4d2c","sensorId":"sensor-5","vehicleCount":74,"averageSpeed":82.4}
+[2026-01-05T03:43:39.492Z] Speed reading: {"id":"36984ff7-5b07-4d70-9127-9a904c0237ce","sensorId":"sensor-1","currentSpeed":138.4}
+[2026-01-05T03:43:39.546Z] Traffic event: {"id":"a4d3257b-3a45-4608-a3c8-384e856b8226","type":"accident","roadId":"road-8","severity":"medium","description":"Abundans voveo delego deludo pecto dapifer colligo.","timestamp":"2026-01-05T03:43:39.470Z"}
+[2026-01-05T03:43:41.822Z] Traffic reading: {"id":"565b7c60-4124-440f-856c-87dbbcd7008c","sensorId":"sensor-2","vehicleCount":41,"averageSpeed":106.7}
+[2026-01-05T03:43:44.329Z] Air quality reading: {"id":"31250178-98bc-41c3-805a-c13e49ad9959","sensorId":"sensor-3","aqi":155}
+[2026-01-05T03:43:46.931Z] Traffic reading: {"id":"7c20a822-fbf8-4a13-a538-be2e7215eff5","sensorId":"sensor-4","vehicleCount":53,"averageSpeed":43.7}
+[2026-01-05T03:43:50.202Z] Speed reading: {"id":"3dd7e734-eed1-45d6-87d2-26dec7b6107a","sensorId":"sensor-1","currentSpeed":23.1}
+[2026-01-05T03:43:50.222Z] Traffic reading: {"id":"b1c42ad9-4ecd-4936-8f01-1144fd95de02","sensorId":"sensor-5","vehicleCount":23,"averageSpeed":89}
+[2026-01-05T03:43:52.730Z] Traffic reading: {"id":"7366c93a-318b-4f2e-9f62-2dc8bb8fde1e","sensorId":"sensor-2","vehicleCount":44,"averageSpeed":64.9}
+[2026-01-05T03:43:55.485Z] Air quality reading: {"id":"605bcb9b-fb3e-4c27-996d-9e872b54d478","sensorId":"sensor-3","aqi":208}
+[2026-01-05T03:43:58.094Z] Traffic reading: {"id":"08ca6b3d-d753-498d-9cba-f6753063bc30","sensorId":"sensor-4","vehicleCount":77,"averageSpeed":48.7}
+[2026-01-05T03:44:01.299Z] Traffic reading: {"id":"7ad71075-c0c2-4284-9aab-3299f9d6ec9e","sensorId":"sensor-5","vehicleCount":86,"averageSpeed":98.7}
+[2026-01-05T03:44:01.368Z] Speed reading: {"id":"d38d8e11-dd2d-4dd7-a887-900382e6582c","sensorId":"sensor-1","currentSpeed":7.7}
+[2026-01-05T03:44:03.828Z] Traffic reading: {"id":"b3b17cc4-c40f-41ff-831c-5555477a547a","sensorId":"sensor-2","vehicleCount":55,"averageSpeed":26}
+[2026-01-05T03:44:06.424Z] Air quality reading: {"id":"08b3b155-02bf-4e6f-b671-9cc813b8d3d5","sensorId":"sensor-3","aqi":109}
+[2026-01-05T03:44:08.902Z] Speed reading: {"id":"ec42aa44-4eca-406d-95d2-48c1ae2dd4c9","sensorId":"sensor-1","currentSpeed":62.3}
+[2026-01-05T03:44:08.925Z] Traffic reading: {"id":"186191be-bf48-4e46-93e5-071214af2713","sensorId":"sensor-4","vehicleCount":18,"averageSpeed":15.3}
+[2026-01-05T03:44:11.366Z] Traffic reading: {"id":"bbccb189-3d4d-485b-a3d7-fe3a8d4f97e0","sensorId":"sensor-5","vehicleCount":50,"averageSpeed":103.9}
+[2026-01-05T03:44:11.368Z] Traffic reading: {"id":"260333d3-91d3-49b4-b5bc-385cb5069baf","sensorId":"sensor-2","vehicleCount":80,"averageSpeed":49}
+[2026-01-05T03:44:13.882Z] Air quality reading: {"id":"89bed2da-01c7-4831-be06-0c5e6affe79d","sensorId":"sensor-3","aqi":175}
+[2026-01-05T03:44:16.366Z] Traffic reading: {"id":"2ef2e7ca-d6b5-49c2-9ace-cf731d1028d6","sensorId":"sensor-4","vehicleCount":97,"averageSpeed":100.1}
+[2026-01-05T03:44:18.979Z] Speed reading: {"id":"fbac0d66-5aea-4daa-92aa-30d3e40bdaa8","sensorId":"sensor-1","currentSpeed":105.9}
+[2026-01-05T03:44:18.996Z] Traffic reading: {"id":"589e9e36-1d3c-4328-9522-b3be90e024fa","sensorId":"sensor-5","vehicleCount":62,"averageSpeed":36.3}
+[2026-01-05T03:44:21.364Z] Traffic reading: {"id":"133c7aa2-a6d1-48b9-ab7a-85695e84d5d6","sensorId":"sensor-2","vehicleCount":36,"averageSpeed":14.1}
+[2026-01-05T03:44:23.680Z] Air quality reading: {"id":"44d1ec44-86ed-4c6a-a569-5a2fa773e3ac","sensorId":"sensor-3","aqi":229}
+[2026-01-05T03:44:26.139Z] Traffic reading: {"id":"d37af523-c9d7-4e06-bb3c-30c9f6b432c3","sensorId":"sensor-4","vehicleCount":22,"averageSpeed":105.7}
+[2026-01-05T03:44:29.126Z] Speed reading: {"id":"3dc141fc-d352-45c1-9060-de391652167f","sensorId":"sensor-1","currentSpeed":74.3}
+[2026-01-05T03:44:29.135Z] Traffic reading: {"id":"d7caf75c-9860-462a-a4c9-6b73d4f8d0e0","sensorId":"sensor-5","vehicleCount":66,"averageSpeed":45.4}
+[2026-01-05T03:44:32.061Z] Traffic reading: {"id":"b54f9d19-a4a9-43f4-b170-3f33954b7e03","sensorId":"sensor-2","vehicleCount":99,"averageSpeed":117.1}
+[2026-01-05T03:44:34.415Z] Air quality reading: {"id":"9b5ae8e5-3f3f-4487-9da5-07ace3b1cc4a","sensorId":"sensor-3","aqi":464}
+[2026-01-05T03:44:36.712Z] Traffic reading: {"id":"a9ff4b1c-d2fc-40e3-980f-55917c4f629d","sensorId":"sensor-4","vehicleCount":20,"averageSpeed":114.1}
+[2026-01-05T03:44:42.320Z] Speed reading: {"id":"67c590f3-dab6-42ae-8f43-00b4ffc2fb70","sensorId":"sensor-1","currentSpeed":109.9}
+[2026-01-05T03:44:42.331Z] Traffic reading: {"id":"6d5fef79-c12a-4f95-bc34-393a7613da97","sensorId":"sensor-5","vehicleCount":79,"averageSpeed":62.7}
+[2026-01-05T03:44:44.657Z] Traffic reading: {"id":"c50e2e36-21bd-42f9-8f0b-ad0699eb66ce","sensorId":"sensor-2","vehicleCount":20,"averageSpeed":19.9}
+[2026-01-05T03:44:47.164Z] Air quality reading: {"id":"173e01fd-5f1f-496d-8bfc-3cdc80bd88c7","sensorId":"sensor-3","aqi":227}
+[2026-01-05T03:44:49.454Z] Speed reading: {"id":"44fd28f5-701f-43c0-b8b5-e614250dd647","sensorId":"sensor-1","currentSpeed":108.7}
+[2026-01-05T03:44:49.457Z] Traffic reading: {"id":"5dc88302-b5fa-41f1-a71f-c896a3054046","sensorId":"sensor-4","vehicleCount":43,"averageSpeed":22.4}
+[2026-01-05T03:44:51.746Z] Traffic reading: {"id":"c828e2f5-1a68-4f5a-898a-0e186667f678","sensorId":"sensor-2","vehicleCount":68,"averageSpeed":109.7}
+[2026-01-05T03:44:51.748Z] Traffic reading: {"id":"795344cc-ed66-4053-85d9-7ff629fd0805","sensorId":"sensor-5","vehicleCount":59,"averageSpeed":111.2}
+[2026-01-05T03:44:54.085Z] Air quality reading: {"id":"ad898f23-a406-453d-91b0-7626ba1ac323","sensorId":"sensor-3","aqi":249}
+[2026-01-05T03:44:56.558Z] Traffic reading: {"id":"0b20db1c-c462-45a9-966a-b5ddd95e881d","sensorId":"sensor-4","vehicleCount":13,"averageSpeed":10.1}
+[2026-01-05T03:44:58.943Z] Speed reading: {"id":"3bef6e7b-bf2d-425e-a581-6a57d5f3b9fb","sensorId":"sensor-1","currentSpeed":97.4}
+[2026-01-05T03:44:58.960Z] Traffic reading: {"id":"9dd2bb31-95b1-40cd-9bed-87ed76c70f82","sensorId":"sensor-5","vehicleCount":66,"averageSpeed":28.8}
+[2026-01-05T03:45:01.262Z] Traffic reading: {"id":"565cd8f6-a171-4c88-a479-9c42059bf21c","sensorId":"sensor-2","vehicleCount":89,"averageSpeed":105.3}

@@ -1,0 +1,16 @@
+{
+  "name": "traffic-simulator",
+  "version": "1.0.0",
+  "description": "Smart City Traffic Simulation - Generates sensor, vehicle, and event data for traffic-core",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^10.1.0",
+    "axios": "^1.6.2",
+    "dotenv": "^16.4.5",
+    "faker": "^6.3.1"
+  }
+}

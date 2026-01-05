@@ -1,0 +1,44 @@
+[0;36m================================================================[0m
+[0;36m     REAL BLOCKCHAIN CONSENSUS TEST - 6 PEERS[0m
+[0;36m================================================================[0m
+Channel: traffic-channel | Chaincode: road-manager
+Transactions: 10 | Network: 3 Orgs, 6 Peers, 3 Orderers
+
+[1;33mChecking network...[0m
+[0;32mNetwork is running[0m
+
+[0;34mTEST 1: PBFT-like (6 Peers from 3 Organizations)[0m
+Endorsing: peer0.org1, peer1.org1, peer0.org2, peer1.org2, peer0.org3, peer1.org3
+Fault Tolerance: 33% Byzantine
+  Progress: 1/10 - 733ms  Progress: 2/10 - 765ms  Progress: 3/10 - 807ms  Progress: 4/10 - 1194ms  Progress: 5/10 - 865ms  Progress: 6/10 - 1107ms  Progress: 7/10 - 1107ms  Progress: 8/10 - 1200ms  Progress: 9/10 - 1280ms  Progress: 10/10 - 979ms
+[0;32m  Done: 10/10[0m
+
+[0;34mTEST 2: PoA-like (2 Peers from 1 Organization)[0m
+Endorsing: peer0.org1, peer1.org1 (Org1 as Authority)
+Fault Tolerance: 50% Crash
+  Progress: 1/10 - 675ms  Progress: 2/10 - 770ms  Progress: 3/10 - 687ms  Progress: 4/10 - 1108ms  Progress: 5/10 - 1410ms  Progress: 6/10 - 2318ms  Progress: 7/10 - 2568ms  Progress: 8/10 - 2472ms  Progress: 9/10 - 1436ms  Progress: 10/10 - 1364ms
+[0;32m  Done: 10/10[0m
+
+[0;36m================================================================[0m
+[0;36m                    RESULTS COMPARISON[0m
+[0;36m================================================================[0m
+
++---------------------+-----------------+-----------------+
+|       Metric        |   PBFT-like     |    PoA-like     |
+|                     |   (6 Peers)     |    (2 Peers)    |
++---------------------+-----------------+-----------------+
+| Throughput (TPS)    |             .95 |             .64 |
+| Avg Latency (ms)    |            1003 |            1480 |
+| Success Rate        |           10/10 |           10/10 |
+| Total Time (ms)     |           10437 |           15516 |
++---------------------+-----------------+-----------------+
+| Organizations       |               3 |               1 |
+| Endorsing Peers     |               6 |               2 |
+| Fault Tolerance     |       33% (Byz) |     50% (Crash) |
++---------------------+-----------------+-----------------+
+
+[1;33mANALYSIS:[0m
+  [0;32mPBFT-like has higher throughput[0m
+  [0;32mPBFT-like has lower latency[0m
+
+[0;32mResults saved to: consensus_test_results_20260102_041345.json[0m

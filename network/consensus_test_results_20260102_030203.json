@@ -1,0 +1,30 @@
+{
+  "testDate": "2026-01-02T03:02:03+01:00",
+  "channel": "traffic-channel",
+  "chaincode": "road-manager",
+  "transactionsPerTest": 5,
+  "results": {
+    "pbft": {
+      "name": "PBFT-like (3 Orgs)",
+      "endorsingPeers": 3,
+      "throughput": 1.55,
+      "avgLatency": 602,
+      "successRate": 100.0,
+      "totalTime": 3216,
+      "successful": 5,
+      "failed": 0,
+      "faultTolerance": "33%"
+    },
+    "poa": {
+      "name": "PoA-like (1 Org)",
+      "endorsingPeers": 1,
+      "throughput": 1.60,
+      "avgLatency": 588,
+      "successRate": 100.0,
+      "totalTime": 3123,
+      "successful": 5,
+      "failed": 0,
+      "faultTolerance": "50%"
+    }
+  }
+}

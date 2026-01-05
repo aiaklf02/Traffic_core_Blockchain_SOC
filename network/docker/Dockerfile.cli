@@ -1,0 +1,3 @@
+FROM hyperledger/fabric-tools:2.5.4
+USER root
+RUN apt-get update && apt-get install -y iputils-ping netcat
