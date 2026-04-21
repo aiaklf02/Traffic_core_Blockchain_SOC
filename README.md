@@ -10,7 +10,7 @@
 | **Version** | 2.0.0 |
 | **Date** | Janvier 2026 |
 | **Encadrant** | Pr. Ikram BEN ABDEL OUAHAB & Pr. Mohammed BOUHORMA|
-| **Formation** | Master IASD - Spécialité Blockchain |
+| **Formation** | Master IASD - Blockchain |
 | **Année Universitaire** | 2025/2026 |
 
 ---
